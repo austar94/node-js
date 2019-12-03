@@ -1,0 +1,469 @@
+2019-11-29 14:47:41 [INFO] - Connection pool created.
+2019-11-29 14:47:41 [INFO] - node js start, i see you
+2019-11-29 14:47:50 [INFO] - Connection 1533996 acquired
+2019-11-29 14:47:50 [INFO] - Connection 1533996 released
+2019-11-29 14:48:22 [INFO] - Connection pool created.
+2019-11-29 14:48:22 [INFO] - node js start, i see you
+2019-11-29 14:48:25 [INFO] - undefined
+2019-11-29 14:48:25 [INFO] - Connection 1534012 acquired
+2019-11-29 14:48:25 [INFO] - Connection 1534012 released
+2019-11-29 14:49:18 [INFO] - Connection pool created.
+2019-11-29 14:49:18 [INFO] - node js start, i see you
+2019-11-29 14:49:19 [INFO] - undefined
+2019-11-29 14:49:19 [INFO] - Connection 1534133 acquired
+2019-11-29 14:49:19 [INFO] - Connection 1534133 released
+2019-11-29 14:49:23 [INFO] - undefined
+2019-11-29 14:49:23 [INFO] - Connection 1534133 acquired
+2019-11-29 14:49:23 [INFO] - Connection 1534133 released
+2019-11-29 14:49:26 [INFO] - undefined
+2019-11-29 14:49:26 [INFO] - Connection 1534133 acquired
+2019-11-29 14:49:26 [INFO] - Connection 1534133 released
+2019-11-29 14:49:37 [INFO] - undefined
+2019-11-29 14:49:37 [INFO] - Connection 1534133 acquired
+2019-11-29 14:49:37 [INFO] - Connection 1534133 released
+2019-11-29 14:52:27 [INFO] - Connection pool created.
+2019-11-29 14:52:27 [INFO] - node js start, i see you
+2019-11-29 14:52:32 [INFO] - undefined
+2019-11-29 14:52:32 [INFO] - Connection 1534222 acquired
+2019-11-29 14:52:32 [INFO] - Connection 1534222 released
+2019-11-29 14:53:15 [INFO] - Connection pool created.
+2019-11-29 14:53:15 [INFO] - node js start, i see you
+2019-11-29 14:53:17 [INFO] - undefined
+2019-11-29 14:53:17 [INFO] - Connection 1534246 acquired
+2019-11-29 14:53:17 [INFO] - Connection 1534246 released
+2019-11-29 14:56:25 [INFO] - Connection pool created.
+2019-11-29 14:56:25 [INFO] - node js start, i see you
+2019-11-29 14:56:28 [INFO] - 
+2019-11-29 14:56:28 [INFO] - undefined
+2019-11-29 14:56:28 [INFO] - Connection 1534401 acquired
+2019-11-29 14:56:28 [INFO] - Connection 1534401 released
+2019-11-29 14:56:46 [INFO] - Connection pool created.
+2019-11-29 14:56:46 [INFO] - node js start, i see you
+2019-11-29 14:56:47 [INFO] - undefined
+2019-11-29 14:56:47 [INFO] - Connection 1534408 acquired
+2019-11-29 14:56:47 [INFO] - Connection 1534408 released
+2019-11-29 14:57:06 [INFO] - Connection pool created.
+2019-11-29 14:57:06 [INFO] - node js start, i see you
+2019-11-29 14:57:07 [INFO] - undefined
+2019-11-29 14:57:07 [INFO] - Connection 1534418 acquired
+2019-11-29 14:57:07 [INFO] - Connection 1534418 released
+2019-11-29 14:57:19 [INFO] - Connection pool created.
+2019-11-29 14:57:19 [INFO] - node js start, i see you
+2019-11-29 14:57:20 [INFO] - undefined
+2019-11-29 14:57:20 [INFO] - 목록 불러오기 성공
+2019-11-29 14:57:20 [INFO] - Connection 1534427 acquired
+2019-11-29 14:57:20 [INFO] - Connection 1534427 released
+2019-11-29 14:58:49 [INFO] - Connection pool created.
+2019-11-29 14:58:49 [INFO] - node js start, i see you
+2019-11-29 14:58:53 [INFO] - undefined
+2019-11-29 14:58:53 [INFO] - 목록 불러오기 성공
+2019-11-29 14:58:53 [INFO] - Connection 1534472 acquired
+2019-11-29 14:58:53 [INFO] - Connection 1534472 released
+2019-11-29 14:59:10 [INFO] - Connection pool created.
+2019-11-29 14:59:10 [INFO] - node js start, i see you
+2019-11-29 14:59:11 [INFO] - undefined
+2019-11-29 14:59:11 [INFO] - 목록 불러오기 성공
+2019-11-29 14:59:11 [INFO] - Connection 1534563 acquired
+2019-11-29 14:59:11 [INFO] - Connection 1534563 released
+2019-11-29 14:59:26 [INFO] - Connection pool created.
+2019-11-29 14:59:26 [INFO] - node js start, i see you
+2019-11-29 14:59:28 [INFO] - 목록 불러오기 성공
+2019-11-29 14:59:28 [INFO] - Connection 1534567 acquired
+2019-11-29 14:59:28 [INFO] - Connection 1534567 released
+2019-11-29 14:59:34 [INFO] - Connection pool created.
+2019-11-29 14:59:35 [INFO] - node js start, i see you
+2019-11-29 14:59:35 [INFO] - 목록 불러오기 성공
+2019-11-29 14:59:35 [INFO] - Connection 1534571 acquired
+2019-11-29 14:59:35 [INFO] - Connection 1534571 released
+2019-11-29 15:00:03 [INFO] - Connection pool created.
+2019-11-29 15:00:03 [INFO] - node js start, i see you
+2019-11-29 15:00:05 [INFO] - 목록 불러오기 실패
+2019-11-29 15:00:05 [INFO] - Connection 1534615 acquired
+2019-11-29 15:00:05 [INFO] - Connection 1534615 released
+2019-11-29 15:00:21 [INFO] - Connection pool created.
+2019-11-29 15:00:21 [INFO] - node js start, i see you
+2019-11-29 15:00:22 [INFO] - 목록 불러오기 실패
+2019-11-29 15:00:22 [INFO] - Connection 1534625 acquired
+2019-11-29 15:00:22 [INFO] - Connection 1534625 released
+2019-11-29 15:00:38 [INFO] - Connection pool created.
+2019-11-29 15:00:38 [INFO] - node js start, i see you
+2019-11-29 15:00:39 [INFO] - 목록 불러오기 실패
+2019-11-29 15:00:39 [INFO] - Connection 1534632 acquired
+2019-11-29 15:00:39 [INFO] - Connection 1534632 released
+2019-11-29 15:00:58 [INFO] - Connection pool created.
+2019-11-29 15:00:58 [INFO] - node js start, i see you
+2019-11-29 15:01:01 [INFO] - 목록 불러오기 실패
+2019-11-29 15:01:01 [INFO] - Connection 1534668 acquired
+2019-11-29 15:01:01 [INFO] - Connection 1534668 released
+2019-11-29 15:01:26 [INFO] - Connection pool created.
+2019-11-29 15:01:26 [INFO] - node js start, i see you
+2019-11-29 15:01:27 [INFO] - undefined
+2019-11-29 15:01:27 [INFO] - 목록 불러오기 실패
+2019-11-29 15:01:27 [INFO] - Connection 1534686 acquired
+2019-11-29 15:01:27 [INFO] - Connection 1534686 released
+2019-11-29 15:01:31 [INFO] - Connection pool created.
+2019-11-29 15:01:31 [INFO] - node js start, i see you
+2019-11-29 15:01:32 [INFO] - undefined
+2019-11-29 15:01:32 [INFO] - 목록 불러오기 실패
+2019-11-29 15:01:32 [INFO] - Connection 1534687 acquired
+2019-11-29 15:01:32 [INFO] - Connection 1534687 released
+2019-11-29 15:01:47 [INFO] - Connection pool created.
+2019-11-29 15:01:47 [INFO] - node js start, i see you
+2019-11-29 15:01:48 [INFO] - 목록 불러오기 성공
+2019-11-29 15:01:48 [INFO] - Connection 1534720 acquired
+2019-11-29 15:01:48 [INFO] - Connection 1534720 released
+2019-11-29 15:02:19 [INFO] - Connection pool created.
+2019-11-29 15:02:19 [INFO] - node js start, i see you
+2019-11-29 15:02:21 [INFO] - 목록 불러오기 성공
+2019-11-29 15:02:21 [INFO] - Connection 1534853 acquired
+2019-11-29 15:02:21 [INFO] - Connection 1534853 released
+2019-11-29 15:02:23 [INFO] - 목록 불러오기 성공
+2019-11-29 15:02:23 [INFO] - Connection 1534853 acquired
+2019-11-29 15:02:23 [INFO] - Connection 1534853 released
+2019-11-29 15:02:24 [INFO] - 목록 불러오기 성공
+2019-11-29 15:02:24 [INFO] - Connection 1534853 acquired
+2019-11-29 15:02:24 [INFO] - Connection 1534853 released
+2019-11-29 15:02:26 [INFO] - Connection pool created.
+2019-11-29 15:02:26 [INFO] - node js start, i see you
+2019-11-29 15:02:27 [INFO] - 목록 불러오기 성공
+2019-11-29 15:02:27 [INFO] - Connection 1534854 acquired
+2019-11-29 15:02:27 [INFO] - Connection 1534854 released
+2019-11-29 15:03:16 [INFO] - Connection pool created.
+2019-11-29 15:03:16 [INFO] - node js start, i see you
+2019-11-29 15:03:20 [INFO] - 목록 불러오기 성공
+2019-11-29 15:03:20 [INFO] - Connection 1534884 acquired
+2019-11-29 15:03:20 [INFO] - Connection 1534884 released
+2019-11-29 15:03:21 [INFO] - 목록 불러오기 성공
+2019-11-29 15:03:21 [INFO] - Connection 1534884 acquired
+2019-11-29 15:03:21 [INFO] - Connection 1534884 released
+2019-11-29 15:03:23 [INFO] - Connection pool created.
+2019-11-29 15:03:23 [INFO] - node js start, i see you
+2019-11-29 15:03:24 [INFO] - 목록 불러오기 성공
+2019-11-29 15:03:24 [INFO] - Connection 1534885 acquired
+2019-11-29 15:03:24 [INFO] - Connection 1534885 released
+2019-11-29 15:03:49 [INFO] - Connection pool created.
+2019-11-29 15:03:49 [INFO] - node js start, i see you
+2019-11-29 15:03:50 [INFO] - 목록 불러오기 성공
+2019-11-29 15:03:50 [INFO] - Connection 1534898 acquired
+2019-11-29 15:03:50 [INFO] - Connection 1534898 released
+2019-11-29 15:04:58 [INFO] - Connection pool created.
+2019-11-29 15:04:58 [INFO] - node js start, i see you
+2019-11-29 15:05:01 [INFO] - 목록 불러오기 성공
+2019-11-29 15:05:01 [INFO] - Connection 1534931 acquired
+2019-11-29 15:05:01 [INFO] - Connection 1534931 released
+2019-11-29 15:05:07 [INFO] - Connection pool created.
+2019-11-29 15:05:07 [INFO] - node js start, i see you
+2019-11-29 15:05:07 [INFO] - 목록 불러오기 성공
+2019-11-29 15:05:07 [INFO] - Connection 1534935 acquired
+2019-11-29 15:05:07 [INFO] - Connection 1534935 released
+2019-11-29 15:05:48 [INFO] - Connection pool created.
+2019-11-29 15:05:48 [INFO] - node js start, i see you
+2019-11-29 15:05:50 [INFO] - 목록 불러오기 성공
+2019-11-29 15:05:50 [INFO] - Connection 1534953 acquired
+2019-11-29 15:05:50 [INFO] - Connection 1534953 released
+2019-11-29 15:05:50 [INFO] - get_userInfo
+2019-11-29 15:07:11 [INFO] - 목록 불러오기 성공
+2019-11-29 15:07:11 [INFO] - Connection 1534953 acquired
+2019-11-29 15:07:11 [INFO] - Connection 1534953 released
+2019-11-29 15:07:11 [INFO] - get_userInfo
+2019-11-29 15:10:00 [INFO] - Connection pool created.
+2019-11-29 15:10:01 [INFO] - node js start, i see you
+2019-11-29 15:10:03 [INFO] - 목록 불러오기 성공
+2019-11-29 15:10:03 [INFO] - Connection 1535056 acquired
+2019-11-29 15:10:03 [INFO] - Connection 1535056 released
+2019-11-29 15:10:03 [INFO] - get_userInfo
+2019-11-29 15:10:19 [INFO] - Connection pool created.
+2019-11-29 15:10:19 [INFO] - node js start, i see you
+2019-11-29 15:10:21 [INFO] - 목록 불러오기 성공
+2019-11-29 15:10:21 [INFO] - Connection 1535066 acquired
+2019-11-29 15:10:21 [INFO] - Connection 1535066 released
+2019-11-29 15:10:21 [INFO] - get_userInfo
+2019-11-29 15:12:23 [INFO] - Connection pool created.
+2019-11-29 15:12:23 [INFO] - node js start, i see you
+2019-11-29 15:12:25 [INFO] - 목록 불러오기 성공
+2019-11-29 15:12:25 [INFO] - Connection 1535111 acquired
+2019-11-29 15:12:25 [INFO] - Connection 1535111 released
+2019-11-29 15:12:25 [INFO] - get_userInfo
+2019-11-29 15:12:30 [INFO] - Connection pool created.
+2019-11-29 15:12:30 [INFO] - node js start, i see you
+2019-11-29 15:12:32 [INFO] - 목록 불러오기 성공
+2019-11-29 15:12:32 [INFO] - Connection 1535114 acquired
+2019-11-29 15:12:32 [INFO] - Connection 1535114 released
+2019-11-29 15:12:32 [INFO] - get_userInfo
+2019-11-29 15:17:20 [INFO] - Connection pool created.
+2019-11-29 15:17:20 [INFO] - node js start, i see you
+2019-11-29 15:17:22 [INFO] - Connection 1535253 acquired
+2019-11-29 15:17:22 [INFO] - Connection 1535253 released
+2019-11-29 15:17:22 [INFO] - get_userInfo
+2019-11-29 15:17:28 [INFO] - Connection pool created.
+2019-11-29 15:17:28 [INFO] - node js start, i see you
+2019-11-29 15:17:29 [INFO] - Connection 1535257 acquired
+2019-11-29 15:17:29 [INFO] - Connection 1535257 released
+2019-11-29 15:17:29 [INFO] - get_userInfo
+2019-11-29 15:17:41 [INFO] - Connection pool created.
+2019-11-29 15:17:41 [INFO] - node js start, i see you
+2019-11-29 15:17:42 [INFO] - Connection 1535264 acquired
+2019-11-29 15:17:42 [INFO] - Connection 1535264 released
+2019-11-29 15:17:42 [INFO] - get_userInfo
+2019-11-29 15:18:00 [INFO] - Connection pool created.
+2019-11-29 15:18:00 [INFO] - node js start, i see you
+2019-11-29 15:18:01 [INFO] - Connection 1535276 acquired
+2019-11-29 15:18:01 [INFO] - Connection 1535276 released
+2019-11-29 15:18:01 [INFO] - get_userInfo
+2019-11-29 15:19:44 [INFO] - Connection pool created.
+2019-11-29 15:19:44 [INFO] - node js start, i see you
+2019-11-29 15:19:46 [INFO] - Connection 1535324 acquired
+2019-11-29 15:19:57 [INFO] - Connection pool created.
+2019-11-29 15:19:57 [INFO] - node js start, i see you
+2019-11-29 15:19:59 [INFO] - Connection 1535331 acquired
+2019-11-29 15:20:08 [INFO] - Connection pool created.
+2019-11-29 15:20:08 [INFO] - node js start, i see you
+2019-11-29 15:20:10 [INFO] - Connection 1535338 acquired
+2019-11-29 15:20:10 [INFO] - Connection 1535338 released
+2019-11-29 15:20:20 [INFO] - Connection pool created.
+2019-11-29 15:20:20 [INFO] - node js start, i see you
+2019-11-29 15:20:21 [INFO] - Connection 1535342 acquired
+2019-11-29 15:20:21 [INFO] - Connection 1535342 released
+2019-11-29 15:20:25 [INFO] - Connection pool created.
+2019-11-29 15:20:25 [INFO] - node js start, i see you
+2019-11-29 15:20:25 [INFO] - Connection 1535349 acquired
+2019-11-29 15:20:25 [INFO] - Connection 1535349 released
+2019-11-29 15:20:44 [INFO] - Connection pool created.
+2019-11-29 15:20:44 [INFO] - node js start, i see you
+2019-11-29 15:20:45 [INFO] - Connection 1535358 acquired
+2019-11-29 15:20:45 [INFO] - Connection 1535358 released
+2019-11-29 15:20:45 [INFO] - get_userInfo
+2019-11-29 15:21:36 [INFO] - Connection 1535358 acquired
+2019-11-29 15:21:36 [INFO] - Connection 1535358 released
+2019-11-29 15:21:36 [INFO] - get_userInfo
+2019-11-29 15:21:39 [INFO] - Connection pool created.
+2019-11-29 15:21:39 [INFO] - node js start, i see you
+2019-11-29 15:21:40 [INFO] - 목록 불러오기 성공
+2019-11-29 15:21:40 [INFO] - Connection 1535409 acquired
+2019-11-29 15:21:40 [INFO] - Connection 1535409 released
+2019-11-29 15:21:40 [INFO] - get_userInfo
+2019-11-29 15:36:44 [INFO] - Connection pool created.
+2019-11-29 15:36:44 [INFO] - node js start, i see you
+2019-11-29 15:36:46 [INFO] - 목록 불러오기 성공
+2019-11-29 15:36:46 [INFO] - Connection 1535975 acquired
+2019-11-29 15:36:46 [INFO] - Connection 1535975 released
+2019-11-29 15:37:08 [INFO] - Connection pool created.
+2019-11-29 15:37:08 [INFO] - node js start, i see you
+2019-11-29 15:37:11 [INFO] - 목록 불러오기 성공
+2019-11-29 15:37:11 [INFO] - Connection 1535985 acquired
+2019-11-29 15:37:11 [INFO] - Connection 1535985 released
+2019-11-29 15:37:17 [INFO] - Connection pool created.
+2019-11-29 15:37:17 [INFO] - node js start, i see you
+2019-11-29 15:37:18 [INFO] - 목록 불러오기 성공
+2019-11-29 15:37:18 [INFO] - Connection 1535986 acquired
+2019-11-29 15:37:18 [INFO] - Connection 1535986 released
+2019-11-29 15:37:18 [INFO] - get_userInfo
+2019-11-29 15:41:46 [INFO] - Connection pool created.
+2019-11-29 15:41:46 [INFO] - node js start, i see you
+2019-11-29 15:41:48 [INFO] - 목록 불러오기 성공
+2019-11-29 15:41:48 [INFO] - Connection 1536106 acquired
+2019-11-29 15:41:48 [INFO] - Connection 1536106 released
+2019-11-29 15:41:48 [INFO] - 2
+2019-11-29 15:41:48 [INFO] - get_userInfo
+2019-11-29 15:49:06 [INFO] - Connection pool created.
+2019-11-29 15:49:06 [INFO] - node js start, i see you
+2019-11-29 15:49:07 [INFO] - Connection 1536418 acquired
+2019-11-29 15:49:07 [INFO] - Connection 1536418 released
+2019-11-29 15:49:07 [INFO] - 2
+2019-11-29 15:49:07 [INFO] - get_userInfo
+2019-11-29 15:49:07 [INFO] - 목록 불러오기 성공
+2019-11-29 15:49:38 [INFO] - Connection pool created.
+2019-11-29 15:49:38 [INFO] - node js start, i see you
+2019-11-29 15:49:39 [INFO] - Connection 1536434 acquired
+2019-11-29 15:49:39 [INFO] - Connection 1536434 released
+2019-11-29 15:49:39 [INFO] - 2
+2019-11-29 15:49:39 [INFO] - get_userInfo
+2019-11-29 15:49:39 [INFO] - 목록 불러오기 성공
+2019-11-29 15:50:16 [INFO] - Connection pool created.
+2019-11-29 15:50:16 [INFO] - node js start, i see you
+2019-11-29 15:50:17 [INFO] - Connection 1536452 acquired
+2019-11-29 15:50:17 [INFO] - Connection 1536452 released
+2019-11-29 15:50:17 [INFO] - 목록 불러오기 성공
+2019-11-29 15:52:42 [INFO] - Connection pool created.
+2019-11-29 15:52:42 [INFO] - node js start, i see you
+2019-11-29 15:52:43 [INFO] - Connection 1536520 acquired
+2019-11-29 15:52:43 [INFO] - Connection 1536520 released
+2019-11-29 15:52:43 [INFO] - 목록 불러오기 성공
+2019-11-29 15:53:05 [INFO] - Connection pool created.
+2019-11-29 15:53:05 [INFO] - node js start, i see you
+2019-11-29 15:53:06 [INFO] - Connection 1536533 acquired
+2019-11-29 15:53:06 [INFO] - Connection 1536533 released
+2019-11-29 15:53:06 [INFO] - 목록 불러오기 성공
+2019-11-29 15:53:49 [INFO] - Connection pool created.
+2019-11-29 15:53:49 [INFO] - node js start, i see you
+2019-11-29 15:53:51 [INFO] - Connection 1536555 acquired
+2019-11-29 15:53:51 [INFO] - Connection 1536555 released
+2019-11-29 15:53:51 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userName = ?
+2019-11-29 15:53:51 [INFO] - 목록 불러오기 성공
+2019-11-29 15:54:25 [INFO] - Connection pool created.
+2019-11-29 15:54:25 [INFO] - node js start, i see you
+2019-11-29 15:54:26 [INFO] - Connection 1536573 acquired
+2019-11-29 15:54:26 [INFO] - Connection 1536573 released
+2019-11-29 15:54:26 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userName = ?
+2019-11-29 15:54:26 [INFO] - 목록 불러오기 성공
+2019-11-29 15:54:56 [INFO] - Connection pool created.
+2019-11-29 15:54:56 [INFO] - node js start, i see you
+2019-11-29 15:54:56 [INFO] - ,1
+2019-11-29 15:54:56 [INFO] - Connection 1536586 acquired
+2019-11-29 15:54:56 [INFO] - Connection 1536586 released
+2019-11-29 15:54:56 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userName = ?
+2019-11-29 15:54:56 [INFO] - 목록 불러오기 성공
+2019-11-29 15:55:01 [INFO] - Connection pool created.
+2019-11-29 15:55:01 [INFO] - node js start, i see you
+2019-11-29 15:55:02 [INFO] - 2
+2019-11-29 15:55:02 [INFO] - ,1
+2019-11-29 15:55:02 [INFO] - Connection 1536590 acquired
+2019-11-29 15:55:02 [INFO] - Connection 1536590 released
+2019-11-29 15:55:02 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userName = ?
+2019-11-29 15:55:02 [INFO] - 목록 불러오기 성공
+2019-11-29 15:55:31 [INFO] - Connection pool created.
+2019-11-29 15:55:31 [INFO] - node js start, i see you
+2019-11-29 15:55:31 [INFO] - 2
+2019-11-29 15:55:31 [INFO] - ,1123
+2019-11-29 15:55:31 [INFO] - Connection 1536608 acquired
+2019-11-29 15:55:31 [INFO] - Connection 1536608 released
+2019-11-29 15:55:31 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userName = ?
+2019-11-29 15:55:31 [INFO] - 목록 불러오기 성공
+2019-11-29 15:56:17 [INFO] - Connection pool created.
+2019-11-29 15:56:17 [INFO] - node js start, i see you
+2019-11-29 15:56:21 [INFO] - 1
+2019-11-29 15:56:21 [INFO] - 1
+2019-11-29 15:56:21 [INFO] - Connection 1536633 acquired
+2019-11-29 15:56:21 [INFO] - Connection 1536633 released
+2019-11-29 15:56:21 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userName = ?
+2019-11-29 15:56:21 [INFO] - 목록 불러오기 성공
+2019-11-29 15:57:05 [INFO] - Connection pool created.
+2019-11-29 15:57:05 [INFO] - node js start, i see you
+2019-11-29 15:57:07 [INFO] - 1
+2019-11-29 15:57:07 [INFO] - 1
+2019-11-29 15:57:07 [INFO] - Connection 1536654 acquired
+2019-11-29 15:57:07 [INFO] - Connection 1536654 released
+2019-11-29 15:57:07 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userName = ?
+2019-11-29 15:57:07 [INFO] - 목록 불러오기 성공
+2019-11-29 15:57:14 [INFO] - Connection pool created.
+2019-11-29 15:57:14 [INFO] - node js start, i see you
+2019-11-29 15:57:15 [INFO] - 2
+2019-11-29 15:57:15 [INFO] - 1,1
+2019-11-29 15:57:15 [INFO] - Connection 1536658 acquired
+2019-11-29 15:57:15 [INFO] - Connection 1536658 released
+2019-11-29 15:57:15 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userIdx = ? AND userName = ?
+2019-11-29 15:57:15 [INFO] - 목록 불러오기 성공
+2019-11-29 15:58:01 [INFO] - Connection pool created.
+2019-11-29 15:58:01 [INFO] - node js start, i see you
+2019-11-29 15:58:03 [INFO] - Connection 1536683 acquired
+2019-11-29 15:58:03 [INFO] - Connection 1536683 released
+2019-11-29 15:58:03 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userIdx = ? AND userName = ?
+2019-11-29 15:58:03 [INFO] - 목록 불러오기 성공
+2019-11-29 15:58:06 [INFO] - Connection pool created.
+2019-11-29 15:58:06 [INFO] - node js start, i see you
+2019-11-29 15:58:07 [INFO] - Connection 1536686 acquired
+2019-11-29 15:58:07 [INFO] - Connection 1536686 released
+2019-11-29 15:58:27 [INFO] - Connection pool created.
+2019-11-29 15:58:27 [INFO] - node js start, i see you
+2019-11-29 15:58:28 [INFO] - Connection 1536696 acquired
+2019-11-29 15:58:28 [INFO] - Connection 1536696 released
+2019-11-29 16:00:54 [INFO] - Connection pool created.
+2019-11-29 16:00:54 [INFO] - node js start, i see you
+2019-11-29 16:00:57 [INFO] - Connection 1536758 acquired
+2019-11-29 16:00:57 [INFO] - Connection 1536758 released
+2019-11-29 16:01:17 [INFO] - Connection pool created.
+2019-11-29 16:01:17 [INFO] - node js start, i see you
+2019-11-29 16:01:17 [INFO] - Connection 1536765 acquired
+2019-11-29 16:01:20 [INFO] - Connection pool created.
+2019-11-29 16:01:20 [INFO] - node js start, i see you
+2019-11-29 16:01:20 [INFO] - Connection 1536766 acquired
+2019-11-29 16:01:20 [INFO] - Connection 1536766 released
+2019-11-29 16:01:29 [INFO] - Connection pool created.
+2019-11-29 16:01:29 [INFO] - node js start, i see you
+2019-11-29 16:01:31 [INFO] - Connection 1536773 acquired
+2019-11-29 16:01:31 [INFO] - Connection 1536773 released
+2019-11-29 16:01:56 [INFO] - Connection pool created.
+2019-11-29 16:01:56 [INFO] - node js start, i see you
+2019-11-29 16:01:57 [INFO] - Connection 1536786 acquired
+2019-11-29 16:01:57 [INFO] - Connection 1536786 released
+2019-11-29 16:02:17 [INFO] - Connection pool created.
+2019-11-29 16:02:17 [INFO] - node js start, i see you
+2019-11-29 16:02:19 [INFO] - Connection 1536798 acquired
+2019-11-29 16:02:19 [INFO] - Connection 1536798 released
+2019-11-29 16:02:32 [INFO] - Connection pool created.
+2019-11-29 16:02:32 [INFO] - node js start, i see you
+2019-11-29 16:02:34 [INFO] - Connection 1536805 acquired
+2019-11-29 16:02:34 [INFO] - Connection 1536805 released
+2019-11-29 16:02:50 [INFO] - Connection pool created.
+2019-11-29 16:02:50 [INFO] - node js start, i see you
+2019-11-29 16:02:51 [INFO] - Connection 1536812 acquired
+2019-11-29 16:02:51 [INFO] - Connection 1536812 released
+2019-11-29 16:02:51 [INFO] - SELECT * FROM tbl_userInfo WHERE 1=1 AND userIdx = ? AND userName = ?
+2019-11-29 16:02:51 [INFO] - 목록 불러오기 성공
+2019-11-29 16:07:56 [INFO] - Connection pool created.
+2019-11-29 16:07:56 [INFO] - node js start, i see you
+2019-11-29 16:07:58 [INFO] - 목록 불러오기 성213123공
+2019-11-29 16:07:58 [INFO] - Connection 1536935 acquired
+2019-11-29 16:07:58 [INFO] - Connection 1536935 released
+2019-11-29 16:07:58 [INFO] - 목록 불러오기 성공
+2019-11-29 16:08:26 [INFO] - Connection pool created.
+2019-11-29 16:08:26 [INFO] - node js start, i see you
+2019-11-29 16:08:29 [INFO] - Hello World
+2019-11-29 16:08:29 [INFO] - Connection 1536948 acquired
+2019-11-29 16:08:29 [INFO] - Connection 1536948 released
+2019-11-29 16:08:29 [INFO] - 목록 불러오기 성공
+2019-11-29 16:29:45 [INFO] - Hello World
+2019-11-29 16:29:45 [INFO] - Connection 1536948 acquired
+2019-11-29 16:29:45 [INFO] - Connection 1536948 released
+2019-11-29 16:29:45 [INFO] - 목록 불러오기 성공
+2019-11-29 16:30:01 [INFO] - Connection pool created.
+2019-11-29 16:30:01 [INFO] - node js start, i see you
+2019-11-29 16:30:03 [INFO] - Hello World
+2019-11-29 16:30:03 [INFO] - Connection 1537686 acquired
+2019-11-29 16:30:03 [INFO] - Connection 1537686 released
+2019-11-29 16:30:03 [INFO] - 목록 불러오기 성공
+2019-11-29 16:30:04 [INFO] - Hello World
+2019-11-29 16:30:04 [INFO] - Connection 1537686 acquired
+2019-11-29 16:30:04 [INFO] - Connection 1537686 released
+2019-11-29 16:30:04 [INFO] - 목록 불러오기 성공
+2019-11-29 16:30:07 [INFO] - Connection pool created.
+2019-11-29 16:30:07 [INFO] - node js start, i see you
+2019-11-29 16:30:08 [INFO] - Hello World
+2019-11-29 16:30:08 [INFO] - Connection 1537687 acquired
+2019-11-29 16:30:08 [INFO] - Connection 1537687 released
+2019-11-29 16:30:08 [INFO] - 목록 불러오기 성공
+2019-11-29 16:30:12 [INFO] - Hello World
+2019-11-29 16:30:12 [INFO] - Connection 1537687 acquired
+2019-11-29 16:30:12 [INFO] - Connection 1537687 released
+2019-11-29 16:30:12 [INFO] - 목록 불러오기 성공
+2019-11-29 16:30:17 [INFO] - Connection pool created.
+2019-11-29 16:30:17 [INFO] - node js start, i see you
+2019-11-29 16:30:24 [INFO] - Connection pool created.
+2019-11-29 16:30:24 [INFO] - node js start, i see you
+2019-11-29 16:30:25 [INFO] - Hello World
+2019-11-29 16:30:25 [INFO] - Connection 1537697 acquired
+2019-11-29 16:30:25 [INFO] - Connection 1537697 released
+2019-11-29 16:30:25 [INFO] - 목록 불러오기 성공
+2019-11-29 16:30:34 [INFO] - Hello World
+2019-11-29 16:30:34 [INFO] - Connection 1537697 acquired
+2019-11-29 16:30:34 [INFO] - Connection 1537697 released
+2019-11-29 16:30:34 [INFO] - 목록 불러오기 성공
+2019-11-29 19:03:03 [INFO] - Hello World
+2019-11-29 19:03:03 [INFO] - Connection 1537697 acquired
+2019-11-29 19:03:03 [INFO] - Connection 1537697 released
+2019-11-29 19:03:03 [INFO] - 목록 불러오기 성공
+2019-11-29 19:03:08 [INFO] - Hello World
+2019-11-29 19:03:08 [INFO] - Connection 1537697 acquired
+2019-11-29 19:03:08 [INFO] - Connection 1537697 released
+2019-11-29 19:03:08 [INFO] - 목록 불러오기 성공
+2019-11-29 19:03:42 [INFO] - Connection pool created.
+2019-11-29 19:03:42 [INFO] - node js start, i see you
+2019-11-29 19:03:43 [INFO] - Hello World
+2019-11-29 19:03:43 [INFO] - Connection 1541341 acquired
+2019-11-29 19:03:43 [INFO] - Connection 1541341 released
+2019-11-29 19:03:43 [INFO] - 목록 불러오기 성공
+2019-11-29 19:03:48 [INFO] - Connection pool created.
+2019-11-29 19:03:48 [INFO] - node js start, i see you
+2019-11-29 19:03:49 [INFO] - Connection 1541345 acquired
+2019-11-29 19:03:49 [INFO] - Connection 1541345 released
+2019-11-29 19:03:49 [INFO] - 목록 불러오기 성공

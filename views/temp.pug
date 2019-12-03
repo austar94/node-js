@@ -1,0 +1,15 @@
+doctype html
+html
+	head
+		title= title
+	body
+		h1= title
+
+		ul
+			-for(var i = 0; i < arr_links.length; i++)
+				li 
+					a(href=arr_links[i])= arr_title[i]
+
+		div(class="none")
+			
+		
