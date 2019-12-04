@@ -1,8 +1,8 @@
 const logger		=	require(__base + 'config/library/logger');
-const dbConnect		=	require(__base + 'config/db/db_connect');
+const getConn		=	require(__base + 'config/db/db_connect');
 
 //회원 목록
-exports.get_userInfo		=	function(callback, data){
+exports.get_userInfo		=	async function(data = new Array()){
 	let set					=	'';
 	let where				=	'';
 	let values				=	new Array();
@@ -20,14 +20,14 @@ exports.get_userInfo		=	function(callback, data){
 		values[values.length]	=	userName;
 	}
 
-	dbConnect((err, connection) => {
-		connection.query("SELECT * FROM tbl_userInfo WHERE 1=1" + where, values, (err, results) => {
-			connection.release();
-			if(err){
-				throw err;
-			}
-			
-			callback(results);
-		});
-	})
+	logger.info('회원 목록 불러오는 중...');
+	try{
+		let msg				=	await getConn("SELECT * FROM tbl_userInfo WHERE 1=1" + where, values);
+		logger.info('회원 목록 불러오기 완료');
+		return msg.getData();
+	}
+	catch(msg){
+		logger.info('회원 목록 불러오기 실패');
+		throw msg;
+	}
 };

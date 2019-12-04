@@ -3,11 +3,12 @@ const express			=	require('express');
 const router			=	express.Router(); 
 const index_controller	=	require(__base + 'controllers/index/'); 
 
+
 //view
 
 //각 호출 별
-router.get('/', index_controller.index); 
-
+router.get('/', index_controller.index);
+router.post('/list/:id', index_controller.get_memberList);
 //view
 
 

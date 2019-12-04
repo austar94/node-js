@@ -1,0 +1,820 @@
+2019-12-03 17:27:05 [INFO] - Connection pool created.
+2019-12-03 17:27:05 [INFO] - node js start, i see you
+2019-12-03 17:27:09 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:09 [INFO] - Connection 1664403 released
+2019-12-03 17:27:09 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:29 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:29 [INFO] - Connection 1664403 released
+2019-12-03 17:27:29 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:33 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:33 [INFO] - Connection 1664403 released
+2019-12-03 17:27:33 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:33 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:33 [INFO] - Connection 1664403 released
+2019-12-03 17:27:33 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:34 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:34 [INFO] - Connection 1664403 released
+2019-12-03 17:27:34 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:34 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:34 [INFO] - Connection 1664403 released
+2019-12-03 17:27:34 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:34 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:34 [INFO] - Connection 1664403 released
+2019-12-03 17:27:34 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:34 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:34 [INFO] - Connection 1664403 released
+2019-12-03 17:27:34 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:35 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:35 [INFO] - Connection 1664403 released
+2019-12-03 17:27:35 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:35 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:35 [INFO] - Connection 1664403 released
+2019-12-03 17:27:35 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:35 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:35 [INFO] - Connection 1664403 released
+2019-12-03 17:27:35 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:45 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:45 [INFO] - Connection 1664403 released
+2019-12-03 17:27:45 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:47 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:47 [INFO] - Connection 1664403 released
+2019-12-03 17:27:47 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:48 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:48 [INFO] - Connection 1664403 released
+2019-12-03 17:27:48 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:49 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:49 [INFO] - Connection 1664403 released
+2019-12-03 17:27:49 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:50 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:50 [INFO] - Connection 1664403 released
+2019-12-03 17:27:50 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:53 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:53 [INFO] - Connection 1664403 released
+2019-12-03 17:27:53 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:27:53 [INFO] - Connection 1664403 acquired
+2019-12-03 17:27:53 [INFO] - Connection 1664403 released
+2019-12-03 17:27:53 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:31:56 [INFO] - Connection pool created.
+2019-12-03 17:31:56 [INFO] - node js start, i see you
+2019-12-03 17:31:58 [INFO] - Connection 1664512 acquired
+2019-12-03 17:31:58 [INFO] - Connection 1664512 released
+2019-12-03 17:32:09 [INFO] - Connection pool created.
+2019-12-03 17:32:09 [INFO] - node js start, i see you
+2019-12-03 17:32:11 [INFO] - Connection 1664513 acquired
+2019-12-03 17:32:11 [INFO] - Connection 1664513 released
+2019-12-03 17:32:15 [INFO] - Connection pool created.
+2019-12-03 17:32:15 [INFO] - node js start, i see you
+2019-12-03 17:32:16 [INFO] - Connection 1664517 acquired
+2019-12-03 17:32:16 [INFO] - Connection 1664517 released
+2019-12-03 17:40:07 [INFO] - Connection pool created.
+2019-12-03 17:40:07 [INFO] - node js start, i see you
+2019-12-03 17:40:09 [INFO] - Connection 1664656 acquired
+2019-12-03 17:40:09 [INFO] - Connection 1664656 released
+2019-12-03 17:40:09 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:40:09 [INFO] - Connection 1664656 acquired
+2019-12-03 17:40:09 [INFO] - Connection 1664656 released
+2019-12-03 17:40:09 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 17:40:13 [INFO] - Connection 1664656 acquired
+2019-12-03 17:40:13 [INFO] - Connection 1664656 released
+2019-12-03 17:40:13 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:40:13 [INFO] - Connection 1664656 acquired
+2019-12-03 17:40:13 [INFO] - Connection 1664656 released
+2019-12-03 17:40:13 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 17:40:25 [INFO] - Connection pool created.
+2019-12-03 17:40:25 [INFO] - node js start, i see you
+2019-12-03 17:40:26 [INFO] - Connection 1664666 acquired
+2019-12-03 17:40:26 [INFO] - Connection 1664666 released
+2019-12-03 17:40:26 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:40:26 [INFO] - Connection 1664666 acquired
+2019-12-03 17:40:26 [INFO] - Connection 1664666 released
+2019-12-03 17:41:27 [INFO] - Connection pool created.
+2019-12-03 17:41:27 [INFO] - node js start, i see you
+2019-12-03 17:41:29 [INFO] - Connection 1664681 acquired
+2019-12-03 17:41:29 [INFO] - Connection 1664681 released
+2019-12-03 17:41:29 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:41:29 [INFO] - Connection 1664681 acquired
+2019-12-03 17:41:29 [INFO] - Connection 1664681 released
+2019-12-03 17:42:34 [INFO] - Connection pool created.
+2019-12-03 17:42:34 [INFO] - node js start, i see you
+2019-12-03 17:42:35 [INFO] - Connection 1664700 acquired
+2019-12-03 17:42:35 [INFO] - Connection 1664700 released
+2019-12-03 17:42:35 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:42:35 [INFO] - Connection 1664700 acquired
+2019-12-03 17:42:35 [INFO] - Connection 1664700 released
+2019-12-03 17:42:35 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 17:42:44 [INFO] - Connection pool created.
+2019-12-03 17:42:44 [INFO] - node js start, i see you
+2019-12-03 17:42:45 [INFO] - Connection 1664707 acquired
+2019-12-03 17:42:45 [INFO] - Connection 1664707 released
+2019-12-03 17:42:45 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 17:42:45 [INFO] - Connection 1664707 acquired
+2019-12-03 18:24:08 [INFO] - Connection pool created.
+2019-12-03 18:24:08 [INFO] - node js start, i see you
+2019-12-03 18:24:11 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:24:11 [INFO] - undefined
+2019-12-03 18:24:15 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:24:15 [INFO] - undefined
+2019-12-03 18:25:56 [INFO] - Connection pool created.
+2019-12-03 18:25:56 [INFO] - node js start, i see you
+2019-12-03 18:25:58 [INFO] - Connection 1666151 acquired
+2019-12-03 18:25:58 [INFO] - Connection 1666151 released
+2019-12-03 18:25:58 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:25:59 [INFO] - Connection 1666151 acquired
+2019-12-03 18:25:59 [INFO] - Connection 1666151 released
+2019-12-03 18:25:59 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:26:45 [INFO] - Connection pool created.
+2019-12-03 18:26:45 [INFO] - node js start, i see you
+2019-12-03 18:26:46 [INFO] - Connection 1666172 acquired
+2019-12-03 18:26:46 [INFO] - Connection 1666172 released
+2019-12-03 18:26:46 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:27:15 [INFO] - Connection pool created.
+2019-12-03 18:27:15 [INFO] - node js start, i see you
+2019-12-03 18:27:17 [INFO] - Connection 1666185 acquired
+2019-12-03 18:27:17 [INFO] - Connection 1666186 acquired
+2019-12-03 18:27:30 [INFO] - Connection pool created.
+2019-12-03 18:27:30 [INFO] - node js start, i see you
+2019-12-03 18:27:31 [INFO] - Connection 1666192 acquired
+2019-12-03 18:27:31 [INFO] - Connection 1666193 acquired
+2019-12-03 18:27:31 [INFO] - Connection 1666193 released
+2019-12-03 18:27:31 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:27:31 [INFO] - Connection 1666192 released
+2019-12-03 18:27:31 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:27:59 [INFO] - Connection pool created.
+2019-12-03 18:27:59 [INFO] - node js start, i see you
+2019-12-03 18:28:00 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:28:00 [INFO] - undefined
+2019-12-03 18:28:00 [INFO] - Connection 1666206 acquired
+2019-12-03 18:28:00 [INFO] - Connection 1666207 acquired
+2019-12-03 18:28:00 [INFO] - Connection 1666206 released
+2019-12-03 18:28:00 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:00 [INFO] - Connection 1666207 released
+2019-12-03 18:28:00 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:28:04 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:28:04 [INFO] - undefined
+2019-12-03 18:28:04 [INFO] - Connection 1666206 acquired
+2019-12-03 18:28:04 [INFO] - Connection 1666207 acquired
+2019-12-03 18:28:04 [INFO] - Connection 1666206 released
+2019-12-03 18:28:04 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:04 [INFO] - Connection 1666207 released
+2019-12-03 18:28:04 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:28:07 [INFO] - Connection pool created.
+2019-12-03 18:28:07 [INFO] - node js start, i see you
+2019-12-03 18:28:07 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:28:07 [INFO] - undefined
+2019-12-03 18:28:07 [INFO] - Connection 1666208 acquired
+2019-12-03 18:28:07 [INFO] - Connection 1666209 acquired
+2019-12-03 18:28:07 [INFO] - Connection 1666209 released
+2019-12-03 18:28:07 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:28:07 [INFO] - Connection 1666208 released
+2019-12-03 18:28:07 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:09 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:28:09 [INFO] - undefined
+2019-12-03 18:28:09 [INFO] - Connection 1666208 acquired
+2019-12-03 18:28:09 [INFO] - Connection 1666209 acquired
+2019-12-03 18:28:09 [INFO] - Connection 1666208 released
+2019-12-03 18:28:09 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:28:09 [INFO] - Connection 1666209 released
+2019-12-03 18:28:09 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:20 [INFO] - Connection pool created.
+2019-12-03 18:28:20 [INFO] - node js start, i see you
+2019-12-03 18:28:20 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:28:20 [INFO] - undefined
+2019-12-03 18:28:20 [INFO] - Connection 1666216 acquired
+2019-12-03 18:28:20 [INFO] - Connection 1666217 acquired
+2019-12-03 18:28:20 [INFO] - Connection 1666216 released
+2019-12-03 18:28:20 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:20 [INFO] - Connection 1666217 released
+2019-12-03 18:28:20 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:28:23 [INFO] - Connection pool created.
+2019-12-03 18:28:23 [INFO] - node js start, i see you
+2019-12-03 18:28:24 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:28:24 [INFO] - undefined
+2019-12-03 18:28:24 [INFO] - Connection 1666221 acquired
+2019-12-03 18:28:24 [INFO] - Connection 1666222 acquired
+2019-12-03 18:28:24 [INFO] - Connection 1666222 released
+2019-12-03 18:28:24 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:28:24 [INFO] - Connection 1666221 released
+2019-12-03 18:28:24 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:29 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:28:29 [INFO] - undefined
+2019-12-03 18:28:29 [INFO] - Connection 1666222 acquired
+2019-12-03 18:28:29 [INFO] - Connection 1666221 acquired
+2019-12-03 18:28:29 [INFO] - Connection 1666222 released
+2019-12-03 18:28:29 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:29 [INFO] - Connection 1666221 released
+2019-12-03 18:28:29 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:28:33 [INFO] - Connection pool created.
+2019-12-03 18:28:33 [INFO] - node js start, i see you
+2019-12-03 18:28:34 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:28:34 [INFO] - undefined
+2019-12-03 18:28:34 [INFO] - Connection 1666226 acquired
+2019-12-03 18:28:34 [INFO] - Connection 1666227 acquired
+2019-12-03 18:28:34 [INFO] - Connection 1666226 released
+2019-12-03 18:28:34 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:34 [INFO] - Connection 1666227 released
+2019-12-03 18:28:34 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:28:42 [INFO] - Connection pool created.
+2019-12-03 18:28:42 [INFO] - node js start, i see you
+2019-12-03 18:28:43 [INFO] - Connection 1666228 acquired
+2019-12-03 18:28:43 [INFO] - Connection 1666228 released
+2019-12-03 18:28:43 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:43 [INFO] - Connection 1666229 acquired
+2019-12-03 18:28:43 [INFO] - Connection 1666229 released
+2019-12-03 18:28:43 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:28:50 [INFO] - Connection pool created.
+2019-12-03 18:28:50 [INFO] - node js start, i see you
+2019-12-03 18:28:50 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:28:50 [INFO] - undefined
+2019-12-03 18:28:51 [INFO] - Connection 1666233 acquired
+2019-12-03 18:28:51 [INFO] - Connection 1666234 acquired
+2019-12-03 18:28:51 [INFO] - Connection 1666233 released
+2019-12-03 18:28:51 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:28:51 [INFO] - Connection 1666234 released
+2019-12-03 18:28:51 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:30:09 [INFO] - Connection pool created.
+2019-12-03 18:30:09 [INFO] - node js start, i see you
+2019-12-03 18:30:11 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:30:11 [INFO] - undefined
+2019-12-03 18:30:11 [INFO] - Connection 1666271 acquired
+2019-12-03 18:30:11 [INFO] - Connection 1666270 acquired
+2019-12-03 18:30:11 [INFO] - Connection 1666271 released
+2019-12-03 18:30:11 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:30:11 [INFO] - Connection 1666270 released
+2019-12-03 18:30:11 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:30:12 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:30:12 [INFO] - undefined
+2019-12-03 18:30:12 [INFO] - Connection 1666271 acquired
+2019-12-03 18:30:12 [INFO] - Connection 1666270 acquired
+2019-12-03 18:30:12 [INFO] - Connection 1666270 released
+2019-12-03 18:30:12 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:30:12 [INFO] - Connection 1666271 released
+2019-12-03 18:30:12 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:30:15 [INFO] - Connection pool created.
+2019-12-03 18:30:15 [INFO] - node js start, i see you
+2019-12-03 18:30:15 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:30:15 [INFO] - undefined
+2019-12-03 18:30:15 [INFO] - Connection 1666274 acquired
+2019-12-03 18:30:15 [INFO] - Connection 1666275 acquired
+2019-12-03 18:30:15 [INFO] - Connection 1666274 released
+2019-12-03 18:30:15 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:30:15 [INFO] - Connection 1666275 released
+2019-12-03 18:30:15 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:30:20 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:30:20 [INFO] - undefined
+2019-12-03 18:30:20 [INFO] - Connection 1666274 acquired
+2019-12-03 18:30:20 [INFO] - Connection 1666275 acquired
+2019-12-03 18:30:20 [INFO] - Connection 1666274 released
+2019-12-03 18:30:20 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:30:20 [INFO] - Connection 1666275 released
+2019-12-03 18:30:20 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:30:23 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:30:23 [INFO] - undefined
+2019-12-03 18:30:23 [INFO] - Connection 1666274 acquired
+2019-12-03 18:30:23 [INFO] - Connection 1666275 acquired
+2019-12-03 18:30:23 [INFO] - Connection 1666274 released
+2019-12-03 18:30:23 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:30:23 [INFO] - Connection 1666275 released
+2019-12-03 18:30:23 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:30:46 [INFO] - Connection pool created.
+2019-12-03 18:30:46 [INFO] - node js start, i see you
+2019-12-03 18:30:47 [INFO] - Connection 1666288 acquired
+2019-12-03 18:30:47 [INFO] - Connection 1666289 acquired
+2019-12-03 18:30:47 [INFO] - Connection 1666288 released
+2019-12-03 18:30:47 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:30:47 [INFO] - Connection 1666289 released
+2019-12-03 18:30:47 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:30:51 [INFO] - Connection 1666288 acquired
+2019-12-03 18:30:51 [INFO] - Connection 1666289 acquired
+2019-12-03 18:30:51 [INFO] - Connection 1666289 released
+2019-12-03 18:30:51 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:30:51 [INFO] - Connection 1666288 released
+2019-12-03 18:30:51 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:30:52 [INFO] - Connection 1666288 acquired
+2019-12-03 18:30:52 [INFO] - Connection 1666289 acquired
+2019-12-03 18:30:52 [INFO] - Connection 1666289 released
+2019-12-03 18:30:52 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:30:52 [INFO] - Connection 1666288 released
+2019-12-03 18:30:52 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:30:52 [INFO] - Connection 1666289 acquired
+2019-12-03 18:30:52 [INFO] - Connection 1666288 acquired
+2019-12-03 18:30:52 [INFO] - Connection 1666289 released
+2019-12-03 18:30:52 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:30:52 [INFO] - Connection 1666288 released
+2019-12-03 18:30:52 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:31:07 [INFO] - Connection pool created.
+2019-12-03 18:31:07 [INFO] - node js start, i see you
+2019-12-03 18:31:09 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:31:09 [INFO] - undefined
+2019-12-03 18:31:09 [INFO] - Connection 1666310 acquired
+2019-12-03 18:31:09 [INFO] - Connection 1666311 acquired
+2019-12-03 18:31:09 [INFO] - Connection 1666310 released
+2019-12-03 18:31:09 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:31:09 [INFO] - Connection 1666311 released
+2019-12-03 18:31:09 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:33:09 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:33:09 [INFO] - undefined
+2019-12-03 18:33:09 [INFO] - Connection 1666310 acquired
+2019-12-03 18:33:09 [INFO] - Connection 1666311 acquired
+2019-12-03 18:33:09 [INFO] - Connection 1666310 released
+2019-12-03 18:33:09 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:33:09 [INFO] - Connection 1666311 released
+2019-12-03 18:33:09 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:36:38 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:36:38 [INFO] - undefined
+2019-12-03 18:36:38 [INFO] - Connection 1666310 acquired
+2019-12-03 18:36:38 [INFO] - Connection 1666311 acquired
+2019-12-03 18:36:38 [INFO] - Connection 1666310 released
+2019-12-03 18:36:38 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:36:38 [INFO] - Connection 1666311 released
+2019-12-03 18:36:38 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:38:39 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:38:39 [INFO] - undefined
+2019-12-03 18:38:39 [INFO] - Connection 1666311 acquired
+2019-12-03 18:38:39 [INFO] - Connection 1666310 acquired
+2019-12-03 18:38:39 [INFO] - Connection 1666311 released
+2019-12-03 18:38:39 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:38:39 [INFO] - Connection 1666310 released
+2019-12-03 18:38:39 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:39:33 [INFO] - Connection pool created.
+2019-12-03 18:39:33 [INFO] - node js start, i see you
+2019-12-03 18:55:53 [INFO] - Connection pool created.
+2019-12-03 18:55:53 [INFO] - node js start, i see you
+2019-12-03 18:55:58 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:55:58 [INFO] - undefined
+2019-12-03 18:55:58 [INFO] - Connection 1667481 acquired
+2019-12-03 18:55:58 [INFO] - Connection 1667482 acquired
+2019-12-03 18:55:58 [INFO] - Connection 1667481 released
+2019-12-03 18:55:58 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:55:58 [INFO] - Connection 1667482 released
+2019-12-03 18:55:58 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:56:03 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 18:56:03 [INFO] - undefined
+2019-12-03 18:56:03 [INFO] - Connection 1667481 acquired
+2019-12-03 18:56:03 [INFO] - Connection 1667482 acquired
+2019-12-03 18:56:03 [INFO] - Connection 1667482 released
+2019-12-03 18:56:03 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:56:03 [INFO] - Connection 1667481 released
+2019-12-03 18:56:03 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:57:48 [INFO] - Connection pool created.
+2019-12-03 18:57:48 [INFO] - node js start, i see you
+2019-12-03 18:57:50 [INFO] - Connection 1667525 acquired
+2019-12-03 18:57:50 [INFO] - Connection 1667524 acquired
+2019-12-03 18:57:50 [INFO] - Connection 1667525 released
+2019-12-03 18:57:50 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:57:50 [INFO] - Connection 1667524 released
+2019-12-03 18:57:50 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:57:55 [INFO] - Connection 1667525 acquired
+2019-12-03 18:57:55 [INFO] - Connection 1667524 acquired
+2019-12-03 18:57:55 [INFO] - Connection 1667525 released
+2019-12-03 18:57:55 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 18:57:55 [INFO] - Connection 1667524 released
+2019-12-03 18:57:55 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:59:55 [INFO] - Connection 1667525 acquired
+2019-12-03 18:59:55 [INFO] - Connection 1667524 acquired
+2019-12-03 18:59:55 [INFO] - Connection 1667524 released
+2019-12-03 18:59:55 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 18:59:55 [INFO] - Connection 1667525 released
+2019-12-03 18:59:55 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:01:48 [INFO] - Connection pool created.
+2019-12-03 19:01:48 [INFO] - node js start, i see you
+2019-12-03 19:01:50 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 19:01:50 [INFO] - Connection 1667672 acquired
+2019-12-03 19:01:50 [INFO] - Connection 1667672 released
+2019-12-03 19:01:53 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 19:01:53 [INFO] - Connection 1667672 acquired
+2019-12-03 19:01:53 [INFO] - Connection 1667672 released
+2019-12-03 19:02:17 [INFO] - Connection pool created.
+2019-12-03 19:02:17 [INFO] - node js start, i see you
+2019-12-03 19:02:19 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 19:02:19 [INFO] - Connection 1667708 acquired
+2019-12-03 19:02:19 [INFO] - Connection 1667708 released
+2019-12-03 19:02:20 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 19:02:20 [INFO] - Connection 1667708 acquired
+2019-12-03 19:02:20 [INFO] - Connection 1667708 released
+2019-12-03 19:02:21 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 19:02:21 [INFO] - Connection 1667708 acquired
+2019-12-03 19:02:21 [INFO] - Connection 1667708 released
+2019-12-03 19:02:21 [INFO] - 보드 목록 불러오기 성공
+2019-12-03 19:02:21 [INFO] - Connection 1667708 acquired
+2019-12-03 19:02:21 [INFO] - Connection 1667708 released
+2019-12-03 19:03:20 [INFO] - Connection pool created.
+2019-12-03 19:03:20 [INFO] - node js start, i see you
+2019-12-03 19:03:22 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:03:22 [INFO] - Connection 1667730 acquired
+2019-12-03 19:03:22 [INFO] - Connection 1667730 released
+2019-12-03 19:03:35 [INFO] - Connection pool created.
+2019-12-03 19:03:35 [INFO] - node js start, i see you
+2019-12-03 19:03:35 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:03:35 [INFO] - Connection 1667737 acquired
+2019-12-03 19:03:36 [INFO] - Connection 1667737 released
+2019-12-03 19:03:42 [INFO] - Connection pool created.
+2019-12-03 19:03:42 [INFO] - node js start, i see you
+2019-12-03 19:03:43 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:03:43 [INFO] - Connection 1667746 acquired
+2019-12-03 19:03:43 [INFO] - Connection 1667746 released
+2019-12-03 19:03:47 [INFO] - Connection pool created.
+2019-12-03 19:03:47 [INFO] - node js start, i see you
+2019-12-03 19:03:48 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:03:48 [INFO] - Connection 1667747 acquired
+2019-12-03 19:03:48 [INFO] - Connection 1667747 released
+2019-12-03 19:04:11 [INFO] - Connection pool created.
+2019-12-03 19:04:11 [INFO] - node js start, i see you
+2019-12-03 19:04:12 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:04:12 [INFO] - Connection 1667754 acquired
+2019-12-03 19:04:12 [INFO] - Connection 1667754 released
+2019-12-03 19:06:10 [INFO] - Connection pool created.
+2019-12-03 19:06:10 [INFO] - node js start, i see you
+2019-12-03 19:06:12 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 19:06:12 [INFO] - undefined
+2019-12-03 19:06:32 [INFO] - Connection pool created.
+2019-12-03 19:06:32 [INFO] - node js start, i see you
+2019-12-03 19:06:32 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:06:32 [INFO] - Connection 1667813 acquired
+2019-12-03 19:06:32 [INFO] - Connection 1667813 released
+2019-12-03 19:06:34 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:06:34 [INFO] - Connection 1667813 acquired
+2019-12-03 19:06:34 [INFO] - Connection 1667813 released
+2019-12-03 19:07:08 [INFO] - Connection pool created.
+2019-12-03 19:07:08 [INFO] - node js start, i see you
+2019-12-03 19:07:09 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:07:09 [INFO] - Connection 1667826 acquired
+2019-12-03 19:07:09 [INFO] - Connection 1667826 released
+2019-12-03 19:07:09 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:10:45 [INFO] - Connection pool created.
+2019-12-03 19:10:45 [INFO] - node js start, i see you
+2019-12-03 19:10:48 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:10:48 [INFO] - Connection 1667908 acquired
+2019-12-03 19:10:48 [INFO] - Connection 1667908 released
+2019-12-03 19:10:48 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:26:12 [INFO] - Connection pool created.
+2019-12-03 19:26:12 [INFO] - node js start, i see you
+2019-12-03 19:26:16 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 19:26:16 [INFO] - undefined
+2019-12-03 19:28:16 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 19:28:16 [INFO] - undefined
+2019-12-03 19:28:38 [INFO] - Connection pool created.
+2019-12-03 19:28:38 [INFO] - node js start, i see you
+2019-12-03 19:28:39 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:28:39 [INFO] - Connection 1668513 acquired
+2019-12-03 19:28:39 [INFO] - Connection 1668513 released
+2019-12-03 19:28:39 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:28:40 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:28:40 [INFO] - Connection 1668513 acquired
+2019-12-03 19:28:40 [INFO] - Connection 1668513 released
+2019-12-03 19:28:40 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:28:48 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:28:48 [INFO] - Connection 1668513 acquired
+2019-12-03 19:28:48 [INFO] - Connection 1668513 released
+2019-12-03 19:28:48 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:28:49 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:28:49 [INFO] - Connection 1668513 acquired
+2019-12-03 19:28:49 [INFO] - Connection 1668513 released
+2019-12-03 19:28:49 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:28:49 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:28:49 [INFO] - Connection 1668513 acquired
+2019-12-03 19:28:49 [INFO] - Connection 1668513 released
+2019-12-03 19:28:49 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:28:51 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:28:51 [INFO] - Connection 1668513 acquired
+2019-12-03 19:28:51 [INFO] - Connection 1668513 released
+2019-12-03 19:28:51 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:29:08 [INFO] - Connection pool created.
+2019-12-03 19:29:08 [INFO] - node js start, i see you
+2019-12-03 19:29:10 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:29:10 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:29:10 [INFO] - Connection 1668528 acquired
+2019-12-03 19:29:10 [INFO] - Connection 1668528 released
+2019-12-03 19:29:10 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:32:58 [INFO] - Connection pool created.
+2019-12-03 19:32:58 [INFO] - node js start, i see you
+2019-12-03 19:33:01 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:33:01 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:33:01 [INFO] - Connection 1668617 acquired
+2019-12-03 19:33:01 [INFO] - Connection 1668617 released
+2019-12-03 19:33:01 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:33:40 [INFO] - Connection pool created.
+2019-12-03 19:33:40 [INFO] - node js start, i see you
+2019-12-03 19:33:42 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:33:42 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:33:42 [INFO] - Connection 1668632 acquired
+2019-12-03 19:33:42 [INFO] - Connection 1668632 released
+2019-12-03 19:33:42 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:33:46 [INFO] - Connection pool created.
+2019-12-03 19:33:46 [INFO] - node js start, i see you
+2019-12-03 19:33:48 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:33:48 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:33:48 [INFO] - Connection 1668636 acquired
+2019-12-03 19:33:48 [INFO] - Connection 1668636 released
+2019-12-03 19:33:48 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:33:50 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:33:50 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:33:50 [INFO] - Connection 1668636 acquired
+2019-12-03 19:33:50 [INFO] - Connection 1668636 released
+2019-12-03 19:33:50 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:33:52 [INFO] - Connection pool created.
+2019-12-03 19:33:52 [INFO] - node js start, i see you
+2019-12-03 19:33:53 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:33:53 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:33:53 [INFO] - Connection 1668637 acquired
+2019-12-03 19:33:53 [INFO] - Connection 1668637 released
+2019-12-03 19:33:53 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:39:01 [INFO] - Connection pool created.
+2019-12-03 19:39:01 [INFO] - node js start, i see you
+2019-12-03 19:39:06 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:39:06 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:39:06 [INFO] - Connection 1668742 acquired
+2019-12-03 19:39:06 [INFO] - Connection 1668742 released
+2019-12-03 19:39:06 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:45:42 [INFO] - Connection pool created.
+2019-12-03 19:45:42 [INFO] - node js start, i see you
+2019-12-03 19:45:45 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:45:45 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:46:01 [INFO] - Connection pool created.
+2019-12-03 19:46:01 [INFO] - node js start, i see you
+2019-12-03 19:46:02 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:46:02 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:46:56 [INFO] - Connection pool created.
+2019-12-03 19:46:56 [INFO] - node js start, i see you
+2019-12-03 19:47:02 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:47:02 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:47:08 [INFO] - Connection pool created.
+2019-12-03 19:47:08 [INFO] - node js start, i see you
+2019-12-03 19:47:09 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:47:09 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:47:35 [INFO] - Connection pool created.
+2019-12-03 19:47:35 [INFO] - node js start, i see you
+2019-12-03 19:47:38 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:47:38 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:47:38 [INFO] - Connection 1668930 acquired
+2019-12-03 19:47:38 [INFO] - Connection 1668930 released
+2019-12-03 19:47:38 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:49:17 [INFO] - Connection pool created.
+2019-12-03 19:49:17 [INFO] - node js start, i see you
+2019-12-03 19:49:21 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:49:21 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:49:21 [INFO] - Connection 1668960 acquired
+2019-12-03 19:49:21 [INFO] - Connection 1668960 released
+2019-12-03 19:49:21 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:49:27 [INFO] - Connection pool created.
+2019-12-03 19:49:27 [INFO] - node js start, i see you
+2019-12-03 19:49:28 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:49:28 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:49:28 [INFO] - Connection 1668964 acquired
+2019-12-03 19:49:28 [INFO] - Connection 1668964 released
+2019-12-03 19:49:28 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:49:48 [INFO] - Connection pool created.
+2019-12-03 19:49:48 [INFO] - node js start, i see you
+2019-12-03 19:49:50 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:49:50 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:49:50 [INFO] - Connection 1668971 acquired
+2019-12-03 19:49:50 [INFO] - Connection 1668971 released
+2019-12-03 19:49:50 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:49:53 [INFO] - Connection pool created.
+2019-12-03 19:49:53 [INFO] - node js start, i see you
+2019-12-03 19:49:54 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:49:54 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:49:54 [INFO] - Connection 1668972 acquired
+2019-12-03 19:49:54 [INFO] - Connection 1668972 released
+2019-12-03 19:49:54 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:50:08 [INFO] - Connection pool created.
+2019-12-03 19:50:08 [INFO] - node js start, i see you
+2019-12-03 19:50:09 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:50:09 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:50:09 [INFO] - Connection 1668984 acquired
+2019-12-03 19:50:09 [INFO] - Connection 1668984 released
+2019-12-03 19:50:09 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:50:12 [INFO] - Connection pool created.
+2019-12-03 19:50:12 [INFO] - node js start, i see you
+2019-12-03 19:50:13 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:50:13 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:50:13 [INFO] - Connection 1668985 acquired
+2019-12-03 19:50:13 [INFO] - Connection 1668985 released
+2019-12-03 19:50:13 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:52:15 [INFO] - Connection pool created.
+2019-12-03 19:52:15 [INFO] - node js start, i see you
+2019-12-03 19:52:20 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:52:20 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:52:20 [INFO] - Connection 1669021 acquired
+2019-12-03 19:52:20 [INFO] - Connection 1669021 released
+2019-12-03 19:52:20 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:52:26 [INFO] - Connection pool created.
+2019-12-03 19:52:26 [INFO] - node js start, i see you
+2019-12-03 19:52:27 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:52:27 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:52:27 [INFO] - Connection 1669025 acquired
+2019-12-03 19:52:27 [INFO] - Connection 1669025 released
+2019-12-03 19:52:27 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 19:52:31 [INFO] - Connection pool created.
+2019-12-03 19:52:31 [INFO] - node js start, i see you
+2019-12-03 19:52:32 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 19:52:32 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 19:52:32 [INFO] - Connection 1669026 acquired
+2019-12-03 19:52:32 [INFO] - Connection 1669026 released
+2019-12-03 19:52:32 [INFO] - 유저 목록 불러오기123 성공
+2019-12-03 20:18:13 [INFO] - Connection pool created.
+2019-12-03 20:18:13 [INFO] - node js start, i see you
+2019-12-03 20:18:17 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:18:17 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:18:17 [INFO] - undefined
+2019-12-03 20:18:41 [INFO] - Connection pool created.
+2019-12-03 20:18:41 [INFO] - node js start, i see you
+2019-12-03 20:18:41 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:18:41 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 20:18:41 [INFO] - Connection 1669605 acquired
+2019-12-03 20:19:26 [INFO] - Connection pool created.
+2019-12-03 20:19:26 [INFO] - node js start, i see you
+2019-12-03 20:19:29 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:19:29 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 20:19:29 [INFO] - Connection 1669624 acquired
+2019-12-03 20:19:36 [INFO] - Connection pool created.
+2019-12-03 20:19:36 [INFO] - node js start, i see you
+2019-12-03 20:19:37 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:19:37 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 20:19:53 [INFO] - Connection pool created.
+2019-12-03 20:19:53 [INFO] - node js start, i see you
+2019-12-03 20:19:54 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:19:54 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 20:19:54 [INFO] - Connection 1669637 acquired
+2019-12-03 20:21:09 [INFO] - node js start, i see you
+2019-12-03 20:21:13 [INFO] - Connection pool created.
+2019-12-03 20:21:13 [INFO] - node js start, i see you
+2019-12-03 20:21:18 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:21:18 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 20:21:18 [INFO] - Connection 1669661 acquired
+2019-12-03 20:21:25 [INFO] - Connection pool created.
+2019-12-03 20:21:25 [INFO] - node js start, i see you
+2019-12-03 20:21:27 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:21:27 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 20:21:27 [INFO] - Connection 1669665 acquired
+2019-12-03 20:25:58 [INFO] - Connection pool created.
+2019-12-03 20:25:58 [INFO] - node js start, i see you
+2019-12-03 20:26:03 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:26:03 [INFO] - 유저 목록 불러오기 성공
+2019-12-03 20:26:03 [INFO] - Connection 1669762 acquired
+2019-12-03 20:34:15 [INFO] - Connection pool created.
+2019-12-03 20:34:15 [INFO] - node js start, i see you
+2019-12-03 20:34:19 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:34:19 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:34:19 [INFO] - undefined
+2019-12-03 20:36:32 [INFO] - Connection pool created.
+2019-12-03 20:36:32 [INFO] - node js start, i see you
+2019-12-03 20:36:34 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:36:34 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:36:34 [INFO] - undefined
+2019-12-03 20:36:34 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:36:34 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:36:34 [INFO] - undefined
+2019-12-03 20:38:34 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:38:34 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:38:34 [INFO] - undefined
+2019-12-03 20:40:56 [INFO] - Connection pool created.
+2019-12-03 20:40:56 [INFO] - node js start, i see you
+2019-12-03 20:41:00 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:41:00 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:41:00 [INFO] - undefined
+2019-12-03 20:41:01 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:41:01 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:41:01 [INFO] - undefined
+2019-12-03 20:41:05 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:41:05 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:41:05 [INFO] - undefined
+2019-12-03 20:41:35 [INFO] - Connection pool created.
+2019-12-03 20:41:35 [INFO] - node js start, i see you
+2019-12-03 20:41:36 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:41:36 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:41:36 [INFO] - undefined
+2019-12-03 20:41:39 [INFO] - Connection pool created.
+2019-12-03 20:41:39 [INFO] - node js start, i see you
+2019-12-03 20:41:40 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:41:40 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:41:40 [INFO] - undefined
+2019-12-03 20:41:51 [INFO] - Connection pool created.
+2019-12-03 20:41:51 [INFO] - node js start, i see you
+2019-12-03 20:41:51 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:41:51 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:41:51 [INFO] - undefined
+2019-12-03 20:41:54 [INFO] - Connection pool created.
+2019-12-03 20:41:54 [INFO] - node js start, i see you
+2019-12-03 20:41:55 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:41:55 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:41:55 [INFO] - undefined
+2019-12-03 20:41:58 [INFO] - Connection pool created.
+2019-12-03 20:41:58 [INFO] - node js start, i see you
+2019-12-03 20:41:59 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:41:59 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:41:59 [INFO] - undefined
+2019-12-03 20:43:59 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:43:59 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:43:59 [INFO] - undefined
+2019-12-03 20:48:49 [INFO] - Connection pool created.
+2019-12-03 20:48:49 [INFO] - node js start, i see you
+2019-12-03 20:48:51 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:48:51 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:48:51 [INFO] - undefined
+2019-12-03 20:49:26 [INFO] - Connection pool created.
+2019-12-03 20:49:26 [INFO] - node js start, i see you
+2019-12-03 20:49:28 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:49:28 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:49:28 [INFO] - undefined
+2019-12-03 20:49:30 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:49:30 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:49:30 [INFO] - undefined
+2019-12-03 20:49:33 [INFO] - Connection pool created.
+2019-12-03 20:49:33 [INFO] - node js start, i see you
+2019-12-03 20:49:34 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:49:34 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:49:34 [INFO] - undefined
+2019-12-03 20:49:53 [INFO] - Connection pool created.
+2019-12-03 20:49:53 [INFO] - node js start, i see you
+2019-12-03 20:49:54 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:49:54 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:49:54 [INFO] - undefined
+2019-12-03 20:49:54 [INFO] - Connection 1670304 acquired
+2019-12-03 20:50:14 [INFO] - Connection pool created.
+2019-12-03 20:50:14 [INFO] - node js start, i see you
+2019-12-03 20:50:18 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:50:18 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:50:18 [INFO] - undefined
+2019-12-03 20:50:18 [INFO] - Connection 1670317 acquired
+2019-12-03 20:52:18 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:52:18 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:52:18 [INFO] - undefined
+2019-12-03 20:52:18 [INFO] - Connection 1670364 acquired
+2019-12-03 20:53:03 [INFO] - Connection pool created.
+2019-12-03 20:53:03 [INFO] - node js start, i see you
+2019-12-03 20:53:03 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:53:03 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:53:03 [INFO] - undefined
+2019-12-03 20:53:03 [INFO] - Connection 1670380 acquired
+2019-12-03 20:53:08 [INFO] - Connection pool created.
+2019-12-03 20:53:08 [INFO] - node js start, i see you
+2019-12-03 20:53:09 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:53:09 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:53:09 [INFO] - undefined
+2019-12-03 20:53:09 [INFO] - Connection 1670384 acquired
+2019-12-03 20:55:09 [INFO] - 유저 목록 불러오기121231233 성공
+2019-12-03 20:55:09 [INFO] - 유저 목록 불러오기 실패
+2019-12-03 20:55:09 [INFO] - undefined
+2019-12-03 20:55:09 [INFO] - Connection 1670431 acquired
+2019-12-03 21:07:11 [INFO] - Connection pool created.
+2019-12-03 21:07:11 [INFO] - node js start, i see you
+2019-12-03 21:07:14 [INFO] - 목록 불러오기 실패
+2019-12-03 21:07:14 [INFO] - undefined
+2019-12-03 21:07:18 [INFO] - 목록 불러오기 실패
+2019-12-03 21:07:18 [INFO] - undefined
+2019-12-03 21:07:23 [INFO] - Connection pool created.
+2019-12-03 21:07:23 [INFO] - node js start, i see you
+2019-12-03 21:07:23 [INFO] - 목록 불러오기 실패
+2019-12-03 21:07:23 [INFO] - undefined
+2019-12-03 21:07:25 [INFO] - 목록 불러오기 실패
+2019-12-03 21:07:25 [INFO] - undefined
+2019-12-03 21:07:49 [INFO] - Connection pool created.
+2019-12-03 21:07:49 [INFO] - node js start, i see you
+2019-12-03 21:07:49 [INFO] - 목록 불러오기 실패
+2019-12-03 21:07:49 [INFO] - undefined
+2019-12-03 21:07:52 [INFO] - Connection pool created.
+2019-12-03 21:07:52 [INFO] - node js start, i see you
+2019-12-03 21:07:54 [INFO] - 목록 불러오기 실패
+2019-12-03 21:07:54 [INFO] - undefined
+2019-12-03 21:07:56 [INFO] - 목록 불러오기 실패
+2019-12-03 21:07:56 [INFO] - undefined
+2019-12-03 21:07:59 [INFO] - Connection pool created.
+2019-12-03 21:07:59 [INFO] - node js start, i see you
+2019-12-03 21:08:00 [INFO] - 목록 불러오기 실패
+2019-12-03 21:08:00 [INFO] - undefined
+2019-12-03 21:08:15 [INFO] - Connection pool created.
+2019-12-03 21:08:15 [INFO] - node js start, i see you
+2019-12-03 21:08:17 [INFO] - 목록 불러오기 실패
+2019-12-03 21:08:17 [INFO] - undefined
+2019-12-03 21:08:28 [INFO] - Connection pool created.
+2019-12-03 21:08:28 [INFO] - node js start, i see you
+2019-12-03 21:08:29 [INFO] - 목록 불러오기 실패
+2019-12-03 21:08:29 [INFO] - undefined
+2019-12-03 21:09:03 [INFO] - Connection pool created.
+2019-12-03 21:09:03 [INFO] - node js start, i see you
+2019-12-03 21:09:03 [INFO] - 목록 불러오기 실패
+2019-12-03 21:09:03 [INFO] - undefined
+2019-12-03 21:09:08 [INFO] - Connection pool created.
+2019-12-03 21:09:08 [INFO] - node js start, i see you
+2019-12-03 21:09:10 [INFO] - 목록 불러오기 성공
+2019-12-03 21:09:41 [INFO] - Connection pool created.
+2019-12-03 21:09:41 [INFO] - node js start, i see you
+2019-12-03 21:09:43 [INFO] - 목록 불러오기 성공
+2019-12-03 21:09:49 [INFO] - Connection pool created.
+2019-12-03 21:09:49 [INFO] - node js start, i see you
+2019-12-03 21:09:49 [INFO] - 목록 불러오는 중..
+2019-12-03 21:09:49 [INFO] - 목록 불러오기 성공
+2019-12-03 21:10:02 [INFO] - Connection pool created.
+2019-12-03 21:10:02 [INFO] - node js start, i see you
+2019-12-03 21:10:02 [INFO] - 목록 불러오는 중..
+2019-12-03 21:10:02 [INFO] - 목록 불러오기 성공
+2019-12-03 21:11:03 [INFO] - Connection pool created.
+2019-12-03 21:11:03 [INFO] - node js start, i see you
+2019-12-03 21:11:05 [INFO] - 목록 불러오는 중..
+2019-12-03 21:11:05 [INFO] - 목록 불러오기 성공
+2019-12-03 21:11:49 [INFO] - Connection pool created.
+2019-12-03 21:11:49 [INFO] - node js start, i see you
+2019-12-03 21:11:50 [INFO] - 목록 불러오는 중..
+2019-12-03 21:11:50 [INFO] - 목록 불러오기 성공
+2019-12-03 21:32:48 [INFO] - 목록 불러오는 중..
+2019-12-03 21:32:48 [INFO] - 목록 불러오기 성공
