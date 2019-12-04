@@ -1172,3 +1172,592 @@
 2019-12-04 17:29:16 [INFO] - [{"userIdx":8,"userName":"1"}]
 2019-12-04 17:29:16 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
 2019-12-04 17:29:16 [INFO] - 메인 불러오기 성공
+2019-12-04 17:33:44 [INFO] - Connection pool created.
+2019-12-04 17:33:44 [INFO] - node js start, i see you
+2019-12-04 17:33:44 [INFO] - development
+2019-12-04 17:33:49 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:33:49 [INFO] - Connection 1701573 acquired
+2019-12-04 17:33:49 [INFO] - Connection 1701573 released
+2019-12-04 17:33:49 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:33:49 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:33:49 [INFO] - Connection 1701573 acquired
+2019-12-04 17:33:49 [INFO] - Connection 1701573 released
+2019-12-04 17:33:49 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:33:49 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:33:49 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:33:49 [INFO] - 메인 불러오기 성공
+2019-12-04 17:33:59 [INFO] - Connection pool created.
+2019-12-04 17:33:59 [INFO] - node js start, i see you
+2019-12-04 17:33:59 [INFO] - development
+2019-12-04 17:34:02 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:34:02 [INFO] - Connection 1701580 acquired
+2019-12-04 17:34:02 [INFO] - Connection 1701580 released
+2019-12-04 17:34:02 [INFO] - Connection 1701580 released
+2019-12-04 17:34:02 [INFO] - [object Object]
+2019-12-04 17:34:02 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 17:34:02 [INFO] - 메인 불러오기 실패
+2019-12-04 17:34:12 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:34:12 [INFO] - Connection 1701580 acquired
+2019-12-04 17:34:12 [INFO] - Connection 1701580 released
+2019-12-04 17:34:12 [INFO] - Connection 1701580 released
+2019-12-04 17:34:12 [INFO] - [object Object]
+2019-12-04 17:34:12 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 17:34:12 [INFO] - 메인 불러오기 실패
+2019-12-04 17:34:44 [INFO] - Connection pool created.
+2019-12-04 17:34:44 [INFO] - node js start, i see you
+2019-12-04 17:34:44 [INFO] - development
+2019-12-04 17:34:46 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:34:46 [INFO] - Connection 1701599 acquired
+2019-12-04 17:34:46 [INFO] - Connection 1701599 released
+2019-12-04 17:34:46 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:34:47 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:34:47 [INFO] - Connection 1701599 acquired
+2019-12-04 17:34:47 [INFO] - Connection 1701599 released
+2019-12-04 17:34:47 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:34:47 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:34:47 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:34:47 [INFO] - 메인 불러오기 성공
+2019-12-04 17:35:04 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:35:04 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:04 [INFO] - Connection 1701599 released
+2019-12-04 17:35:04 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:35:04 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:35:04 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:04 [INFO] - Connection 1701599 released
+2019-12-04 17:35:04 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:35:04 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:35:04 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:35:04 [INFO] - 메인 불러오기 성공
+2019-12-04 17:35:05 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:35:05 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:05 [INFO] - Connection 1701599 released
+2019-12-04 17:35:05 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:35:05 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:35:05 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:05 [INFO] - Connection 1701599 released
+2019-12-04 17:35:05 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:35:05 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:35:05 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:35:05 [INFO] - 메인 불러오기 성공
+2019-12-04 17:35:06 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:35:06 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:06 [INFO] - Connection 1701599 released
+2019-12-04 17:35:06 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:35:06 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:35:06 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:06 [INFO] - Connection 1701599 released
+2019-12-04 17:35:06 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:35:06 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:35:06 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:35:06 [INFO] - 메인 불러오기 성공
+2019-12-04 17:35:07 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:35:07 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:07 [INFO] - Connection 1701599 released
+2019-12-04 17:35:07 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:35:07 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:35:07 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:07 [INFO] - Connection 1701599 released
+2019-12-04 17:35:07 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:35:07 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:35:07 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:35:07 [INFO] - 메인 불러오기 성공
+2019-12-04 17:35:08 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:35:08 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:08 [INFO] - Connection 1701599 released
+2019-12-04 17:35:08 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:35:08 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:35:08 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:08 [INFO] - Connection 1701599 released
+2019-12-04 17:35:08 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:35:08 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:35:08 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:35:08 [INFO] - 메인 불러오기 성공
+2019-12-04 17:35:08 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:35:08 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:08 [INFO] - Connection 1701599 released
+2019-12-04 17:35:08 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:35:08 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:35:08 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:08 [INFO] - Connection 1701599 released
+2019-12-04 17:35:08 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:35:08 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:35:08 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:35:08 [INFO] - 메인 불러오기 성공
+2019-12-04 17:35:09 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:35:09 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:09 [INFO] - Connection 1701599 released
+2019-12-04 17:35:09 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:35:09 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:35:09 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:09 [INFO] - Connection 1701599 released
+2019-12-04 17:35:09 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:35:09 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:35:09 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:35:09 [INFO] - 메인 불러오기 성공
+2019-12-04 17:35:10 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 17:35:10 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:10 [INFO] - Connection 1701599 released
+2019-12-04 17:35:10 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 17:35:10 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 17:35:10 [INFO] - Connection 1701599 acquired
+2019-12-04 17:35:10 [INFO] - Connection 1701599 released
+2019-12-04 17:35:10 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 17:35:10 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 17:35:10 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 17:35:10 [INFO] - 메인 불러오기 성공
+2019-12-04 17:39:05 [INFO] - Connection pool created.
+2019-12-04 17:39:05 [INFO] - node js start, i see you
+2019-12-04 17:39:05 [INFO] - development
+2019-12-04 18:01:32 [INFO] - Connection pool created.
+2019-12-04 18:01:32 [INFO] - node js start, i see you
+2019-12-04 18:01:32 [INFO] - development
+2019-12-04 18:01:43 [INFO] - Connection pool created.
+2019-12-04 18:01:43 [INFO] - node js start, i see you
+2019-12-04 18:01:43 [INFO] - development
+2019-12-04 18:02:11 [INFO] - Connection pool created.
+2019-12-04 18:02:11 [INFO] - node js start, i see you
+2019-12-04 18:02:11 [INFO] - development
+2019-12-04 18:02:36 [INFO] - Connection pool created.
+2019-12-04 18:02:36 [INFO] - node js start, i see you
+2019-12-04 18:02:36 [INFO] - development
+2019-12-04 18:03:05 [INFO] - Connection pool created.
+2019-12-04 18:03:05 [INFO] - node js start, i see you
+2019-12-04 18:03:05 [INFO] - development
+2019-12-04 18:03:12 [INFO] - Connection pool created.
+2019-12-04 18:03:12 [INFO] - node js start, i see you
+2019-12-04 18:03:12 [INFO] - development
+2019-12-04 18:03:28 [INFO] - Connection pool created.
+2019-12-04 18:03:28 [INFO] - node js start, i see you
+2019-12-04 18:03:28 [INFO] - development
+2019-12-04 18:04:09 [INFO] - Connection pool created.
+2019-12-04 18:04:09 [INFO] - node js start, i see you
+2019-12-04 18:04:09 [INFO] - development
+2019-12-04 18:05:13 [INFO] - Connection pool created.
+2019-12-04 18:05:13 [INFO] - node js start, i see you
+2019-12-04 18:05:13 [INFO] - development
+2019-12-04 18:06:22 [INFO] - Connection pool created.
+2019-12-04 18:06:22 [INFO] - node js start, i see you
+2019-12-04 18:06:22 [INFO] - development
+2019-12-04 18:06:49 [INFO] - Connection pool created.
+2019-12-04 18:06:49 [INFO] - node js start, i see you
+2019-12-04 18:06:49 [INFO] - development
+2019-12-04 18:06:55 [INFO] - Connection pool created.
+2019-12-04 18:06:55 [INFO] - node js start, i see you
+2019-12-04 18:06:55 [INFO] - development
+2019-12-04 18:09:13 [INFO] - Connection pool created.
+2019-12-04 18:09:13 [INFO] - node js start, i see you
+2019-12-04 18:09:13 [INFO] - development
+2019-12-04 18:12:15 [INFO] - Connection pool created.
+2019-12-04 18:12:15 [INFO] - node js start, i see you
+2019-12-04 18:12:15 [INFO] - development
+2019-12-04 18:12:47 [INFO] - Connection pool created.
+2019-12-04 18:12:47 [INFO] - node js start, i see you
+2019-12-04 18:12:47 [INFO] - development
+2019-12-04 18:12:52 [INFO] - Connection pool created.
+2019-12-04 18:12:52 [INFO] - node js start, i see you
+2019-12-04 18:12:52 [INFO] - development
+2019-12-04 18:14:20 [INFO] - Connection pool created.
+2019-12-04 18:14:20 [INFO] - node js start, i see you
+2019-12-04 18:14:20 [INFO] - development
+2019-12-04 18:15:52 [INFO] - Connection pool created.
+2019-12-04 18:15:52 [INFO] - node js start, i see you
+2019-12-04 18:15:52 [INFO] - development
+2019-12-04 18:16:24 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:16:24 [INFO] - Connection 1702613 acquired
+2019-12-04 18:16:24 [INFO] - Connection 1702613 released
+2019-12-04 18:16:24 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 18:16:24 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 18:16:24 [INFO] - Connection 1702613 acquired
+2019-12-04 18:16:24 [INFO] - Connection 1702613 released
+2019-12-04 18:16:24 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 18:16:24 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 18:16:24 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 18:16:24 [INFO] - 메인 불러오기 성공
+2019-12-04 18:17:00 [INFO] - Connection pool created.
+2019-12-04 18:17:00 [INFO] - node js start, i see you
+2019-12-04 18:17:00 [INFO] - development
+2019-12-04 18:17:02 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:17:02 [INFO] - Connection 1702631 acquired
+2019-12-04 18:17:02 [INFO] - Connection 1702631 released
+2019-12-04 18:17:02 [INFO] - Connection 1702631 released
+2019-12-04 18:17:02 [INFO] - [object Object]
+2019-12-04 18:17:02 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:17:02 [INFO] - 메인 불러오기 실패
+2019-12-04 18:17:16 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:17:16 [INFO] - Connection 1702631 acquired
+2019-12-04 18:17:17 [INFO] - Connection 1702631 released
+2019-12-04 18:17:17 [INFO] - Connection 1702631 released
+2019-12-04 18:17:17 [INFO] - [object Object]
+2019-12-04 18:17:17 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:17:17 [INFO] - 메인 불러오기 실패
+2019-12-04 18:17:48 [INFO] - node js start, i see you
+2019-12-04 18:17:48 [INFO] - development
+2019-12-04 18:18:08 [INFO] - node js start, i see you
+2019-12-04 18:18:08 [INFO] - development
+2019-12-04 18:19:50 [INFO] - node js start, i see you
+2019-12-04 18:19:50 [INFO] - development
+2019-12-04 18:20:31 [INFO] - node js start, i see you
+2019-12-04 18:20:31 [INFO] - development
+2019-12-04 18:21:39 [INFO] - node js start, i see you
+2019-12-04 18:21:39 [INFO] - development
+2019-12-04 18:26:44 [INFO] - node js start, i see you
+2019-12-04 18:26:44 [INFO] - development
+2019-12-04 18:28:42 [INFO] - node js start, i see you
+2019-12-04 18:28:42 [INFO] - development
+2019-12-04 18:30:24 [INFO] - node js start, i see you
+2019-12-04 18:30:24 [INFO] - development
+2019-12-04 18:31:55 [INFO] - node js start, i see you
+2019-12-04 18:31:55 [INFO] - development
+2019-12-04 18:32:10 [INFO] - node js start, i see you
+2019-12-04 18:32:10 [INFO] - development
+2019-12-04 18:33:40 [INFO] - Connection pool created.
+2019-12-04 18:33:40 [INFO] - node js start, i see you
+2019-12-04 18:33:40 [INFO] - development
+2019-12-04 18:33:51 [INFO] - Connection pool created.
+2019-12-04 18:33:51 [INFO] - node js start, i see you
+2019-12-04 18:33:51 [INFO] - development
+2019-12-04 18:34:40 [INFO] - Connection pool created.
+2019-12-04 18:34:40 [INFO] - node js start, i see you
+2019-12-04 18:34:40 [INFO] - development
+2019-12-04 18:34:45 [INFO] - Connection pool created.
+2019-12-04 18:34:45 [INFO] - node js start, i see you
+2019-12-04 18:34:45 [INFO] - development
+2019-12-04 18:35:03 [INFO] - Connection pool created.
+2019-12-04 18:35:03 [INFO] - node js start, i see you
+2019-12-04 18:35:03 [INFO] - development
+2019-12-04 18:35:26 [INFO] - Connection pool created.
+2019-12-04 18:35:26 [INFO] - node js start, i see you
+2019-12-04 18:35:26 [INFO] - development
+2019-12-04 18:35:27 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:35:27 [INFO] - Connection 1703030 acquired
+2019-12-04 18:35:27 [INFO] - Connection 1703030 released
+2019-12-04 18:35:27 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 18:35:27 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 18:35:27 [INFO] - Connection 1703030 acquired
+2019-12-04 18:35:27 [INFO] - Connection 1703030 released
+2019-12-04 18:35:27 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 18:35:27 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 18:35:27 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 18:35:27 [INFO] - 메인 불러오기 성공
+2019-12-04 18:35:42 [INFO] - node js start, i see you
+2019-12-04 18:35:42 [INFO] - development
+2019-12-04 18:35:43 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:35:43 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:35:43 [INFO] - 메인 불러오기 실패
+2019-12-04 18:35:50 [INFO] - Connection pool created.
+2019-12-04 18:35:50 [INFO] - node js start, i see you
+2019-12-04 18:35:50 [INFO] - development
+2019-12-04 18:35:50 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:35:50 [INFO] - Connection 1703042 acquired
+2019-12-04 18:35:50 [INFO] - Connection 1703042 released
+2019-12-04 18:35:50 [INFO] - Connection 1703042 released
+2019-12-04 18:35:50 [INFO] - [object Object]
+2019-12-04 18:35:50 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:35:50 [INFO] - 메인 불러오기 실패
+2019-12-04 18:35:51 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:35:51 [INFO] - Connection 1703042 acquired
+2019-12-04 18:35:51 [INFO] - Connection 1703042 released
+2019-12-04 18:35:51 [INFO] - Connection 1703042 released
+2019-12-04 18:35:51 [INFO] - [object Object]
+2019-12-04 18:35:51 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:35:51 [INFO] - 메인 불러오기 실패
+2019-12-04 18:36:07 [INFO] - Connection pool created.
+2019-12-04 18:36:07 [INFO] - node js start, i see you
+2019-12-04 18:36:07 [INFO] - development
+2019-12-04 18:36:08 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:36:08 [INFO] - Connection 1703049 acquired
+2019-12-04 18:36:08 [INFO] - Connection 1703049 released
+2019-12-04 18:36:08 [INFO] - Connection 1703049 released
+2019-12-04 18:36:08 [INFO] - [object Object]
+2019-12-04 18:36:08 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:36:08 [INFO] - 메인 불러오기 실패
+2019-12-04 18:36:12 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:36:12 [INFO] - Connection 1703049 acquired
+2019-12-04 18:36:12 [INFO] - Connection 1703049 released
+2019-12-04 18:36:12 [INFO] - Connection 1703049 released
+2019-12-04 18:36:12 [INFO] - [object Object]
+2019-12-04 18:36:12 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:36:12 [INFO] - 메인 불러오기 실패
+2019-12-04 18:36:24 [INFO] - Connection pool created.
+2019-12-04 18:36:24 [INFO] - node js start, i see you
+2019-12-04 18:36:24 [INFO] - development
+2019-12-04 18:36:26 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:36:26 [INFO] - Connection 1703056 acquired
+2019-12-04 18:36:26 [INFO] - Connection 1703056 released
+2019-12-04 18:36:26 [INFO] - Connection 1703056 released
+2019-12-04 18:36:26 [INFO] - [object Object]
+2019-12-04 18:36:26 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:36:26 [INFO] - 메인 불러오기 실패
+2019-12-04 18:36:38 [INFO] - Connection pool created.
+2019-12-04 18:36:38 [INFO] - node js start, i see you
+2019-12-04 18:36:38 [INFO] - development
+2019-12-04 18:36:40 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:36:40 [INFO] - Connection 1703060 acquired
+2019-12-04 18:36:40 [INFO] - Connection 1703060 released
+2019-12-04 18:36:40 [INFO] - Connection 1703060 released
+2019-12-04 18:36:40 [INFO] - [object Object]
+2019-12-04 18:36:40 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:36:40 [INFO] - 메인 불러오기 실패
+2019-12-04 18:36:44 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:36:44 [INFO] - Connection 1703060 acquired
+2019-12-04 18:36:44 [INFO] - Connection 1703060 released
+2019-12-04 18:36:44 [INFO] - Connection 1703060 released
+2019-12-04 18:36:44 [INFO] - [object Object]
+2019-12-04 18:36:44 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:36:44 [INFO] - 메인 불러오기 실패
+2019-12-04 18:37:39 [INFO] - Connection pool created.
+2019-12-04 18:37:39 [INFO] - node js start, i see you
+2019-12-04 18:37:39 [INFO] - development
+2019-12-04 18:37:40 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:37:40 [INFO] - Connection 1703087 acquired
+2019-12-04 18:37:40 [INFO] - Connection 1703087 released
+2019-12-04 18:37:40 [INFO] - Connection 1703087 released
+2019-12-04 18:37:40 [INFO] - [object Object]
+2019-12-04 18:37:40 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:37:40 [INFO] - 메인 불러오기 실패
+2019-12-04 18:37:49 [INFO] - Connection pool created.
+2019-12-04 18:37:49 [INFO] - node js start, i see you
+2019-12-04 18:37:49 [INFO] - development
+2019-12-04 18:37:49 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:37:49 [INFO] - Connection 1703091 acquired
+2019-12-04 18:37:49 [INFO] - Connection 1703091 released
+2019-12-04 18:37:49 [INFO] - Connection 1703091 released
+2019-12-04 18:37:49 [INFO] - [object Object]
+2019-12-04 18:37:49 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:37:49 [INFO] - 메인 불러오기 실패
+2019-12-04 18:37:50 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:37:50 [INFO] - Connection 1703091 acquired
+2019-12-04 18:37:50 [INFO] - Connection 1703091 released
+2019-12-04 18:37:50 [INFO] - Connection 1703091 released
+2019-12-04 18:37:50 [INFO] - [object Object]
+2019-12-04 18:37:50 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:37:50 [INFO] - 메인 불러오기 실패
+2019-12-04 18:37:52 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:37:52 [INFO] - Connection 1703091 acquired
+2019-12-04 18:37:52 [INFO] - Connection 1703091 released
+2019-12-04 18:37:52 [INFO] - Connection 1703091 released
+2019-12-04 18:37:52 [INFO] - [object Object]
+2019-12-04 18:37:52 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:37:52 [INFO] - 메인 불러오기 실패
+2019-12-04 18:44:05 [INFO] - Connection pool created.
+2019-12-04 18:44:05 [INFO] - node js start, i see you
+2019-12-04 18:44:05 [INFO] - development
+2019-12-04 18:44:08 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:44:08 [INFO] - Connection 1703198 acquired
+2019-12-04 18:44:08 [INFO] - Connection 1703198 released
+2019-12-04 18:44:08 [INFO] - Connection 1703198 released
+2019-12-04 18:44:08 [INFO] - [object Object]
+2019-12-04 18:44:08 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:44:08 [INFO] - 메인 불러오기 실패
+2019-12-04 18:44:22 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:44:22 [INFO] - Connection 1703198 acquired
+2019-12-04 18:44:22 [INFO] - Connection 1703198 released
+2019-12-04 18:44:22 [INFO] - Connection 1703198 released
+2019-12-04 18:44:22 [INFO] - [object Object]
+2019-12-04 18:44:22 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:44:22 [INFO] - 메인 불러오기 실패
+2019-12-04 18:44:35 [INFO] - Connection pool created.
+2019-12-04 18:44:35 [INFO] - node js start, i see you
+2019-12-04 18:44:35 [INFO] - development
+2019-12-04 18:44:36 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:44:36 [INFO] - Connection 1703211 acquired
+2019-12-04 18:44:36 [INFO] - Connection 1703211 released
+2019-12-04 18:44:36 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 18:44:36 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 18:44:36 [INFO] - Connection 1703211 acquired
+2019-12-04 18:44:36 [INFO] - Connection 1703211 released
+2019-12-04 18:44:36 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 18:44:36 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 18:44:36 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 18:44:36 [INFO] - 메인 불러오기 성공
+2019-12-04 18:44:42 [INFO] - Connection pool created.
+2019-12-04 18:44:42 [INFO] - node js start, i see you
+2019-12-04 18:44:42 [INFO] - development
+2019-12-04 18:44:43 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:44:43 [INFO] - Connection 1703215 acquired
+2019-12-04 18:44:43 [INFO] - Connection 1703215 released
+2019-12-04 18:44:43 [INFO] - Connection 1703215 released
+2019-12-04 18:44:43 [INFO] - [object Object]
+2019-12-04 18:44:43 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:44:43 [INFO] - 메인 불러오기 실패
+2019-12-04 18:45:48 [INFO] - Connection pool created.
+2019-12-04 18:45:48 [INFO] - node js start, i see you
+2019-12-04 18:45:48 [INFO] - development
+2019-12-04 18:45:50 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:45:50 [INFO] - Connection 1703242 acquired
+2019-12-04 18:45:50 [INFO] - Connection 1703242 released
+2019-12-04 18:45:50 [INFO] - Connection 1703242 released
+2019-12-04 18:45:50 [INFO] - [object Object]
+2019-12-04 18:45:50 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:46:10 [INFO] - Connection pool created.
+2019-12-04 18:46:10 [INFO] - node js start, i see you
+2019-12-04 18:46:10 [INFO] - development
+2019-12-04 18:46:11 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:46:11 [INFO] - Connection 1703249 acquired
+2019-12-04 18:46:11 [INFO] - Connection 1703249 released
+2019-12-04 18:46:11 [INFO] - Connection 1703249 released
+2019-12-04 18:46:11 [INFO] - [object Object]
+2019-12-04 18:46:11 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:46:11 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:46:11 [INFO] - Connection 1703249 acquired
+2019-12-04 18:46:11 [INFO] - Connection 1703249 released
+2019-12-04 18:46:11 [INFO] - Connection 1703249 released
+2019-12-04 18:46:11 [INFO] - [object Object]
+2019-12-04 18:46:11 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:46:13 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:46:13 [INFO] - Connection 1703249 acquired
+2019-12-04 18:46:13 [INFO] - Connection 1703249 released
+2019-12-04 18:46:13 [INFO] - Connection 1703249 released
+2019-12-04 18:46:13 [INFO] - [object Object]
+2019-12-04 18:46:13 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:46:17 [INFO] - Connection pool created.
+2019-12-04 18:46:17 [INFO] - node js start, i see you
+2019-12-04 18:46:17 [INFO] - development
+2019-12-04 18:46:17 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:46:17 [INFO] - Connection 1703253 acquired
+2019-12-04 18:46:17 [INFO] - Connection 1703253 released
+2019-12-04 18:46:17 [INFO] - Connection 1703253 released
+2019-12-04 18:46:17 [INFO] - [object Object]
+2019-12-04 18:46:17 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:46:25 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:46:25 [INFO] - Connection 1703253 acquired
+2019-12-04 18:46:25 [INFO] - Connection 1703253 released
+2019-12-04 18:46:25 [INFO] - Connection 1703253 released
+2019-12-04 18:46:25 [INFO] - [object Object]
+2019-12-04 18:46:25 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:47:28 [INFO] - Connection pool created.
+2019-12-04 18:47:28 [INFO] - node js start, i see you
+2019-12-04 18:47:28 [INFO] - development
+2019-12-04 18:47:30 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:47:30 [INFO] - Connection 1703280 acquired
+2019-12-04 18:47:30 [INFO] - Connection 1703280 released
+2019-12-04 18:47:30 [INFO] - Connection 1703280 released
+2019-12-04 18:47:30 [INFO] - [object Object]
+2019-12-04 18:47:30 [INFO] - 회원 목록 불러오기 실패
+2019-12-04 18:47:30 [INFO] - 메인 불러오기 실패
+2019-12-04 18:55:50 [INFO] - Connection pool created.
+2019-12-04 18:55:50 [INFO] - node js start, i see you
+2019-12-04 18:55:50 [INFO] - development
+2019-12-04 18:55:59 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:55:59 [INFO] - Connection 1703479 acquired
+2019-12-04 18:55:59 [INFO] - Connection 1703479 released
+2019-12-04 18:55:59 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 18:55:59 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 18:55:59 [INFO] - Connection 1703479 acquired
+2019-12-04 18:55:59 [INFO] - Connection 1703479 released
+2019-12-04 18:55:59 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 18:55:59 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 18:55:59 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 18:55:59 [INFO] - 메인 불러오기 성공
+2019-12-04 18:56:08 [INFO] - Connection pool created.
+2019-12-04 18:56:08 [INFO] - node js start, i see you
+2019-12-04 18:56:08 [INFO] - development
+2019-12-04 18:56:09 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:56:09 [INFO] - Connection 1703483 acquired
+2019-12-04 18:56:09 [INFO] - Connection 1703483 released
+2019-12-04 18:56:09 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 18:56:09 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 18:56:09 [INFO] - Connection 1703483 acquired
+2019-12-04 18:56:09 [INFO] - Connection 1703483 released
+2019-12-04 18:56:09 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 18:56:09 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 18:56:09 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 18:56:09 [INFO] - 메인 불러오기 성공
+2019-12-04 18:56:36 [INFO] - Connection pool created.
+2019-12-04 18:56:36 [INFO] - node js start, i see you
+2019-12-04 18:56:36 [INFO] - development
+2019-12-04 18:56:45 [INFO] - Connection pool created.
+2019-12-04 18:56:45 [INFO] - node js start, i see you
+2019-12-04 18:56:45 [INFO] - development
+2019-12-04 18:57:53 [INFO] - Connection pool created.
+2019-12-04 18:57:53 [INFO] - node js start, i see you
+2019-12-04 18:57:53 [INFO] - development
+2019-12-04 18:58:24 [INFO] - Connection pool created.
+2019-12-04 18:58:24 [INFO] - node js start, i see you
+2019-12-04 18:58:24 [INFO] - development
+2019-12-04 18:59:23 [INFO] - Connection pool created.
+2019-12-04 18:59:23 [INFO] - node js start, i see you
+2019-12-04 18:59:23 [INFO] - development
+2019-12-04 18:59:25 [INFO] - 회원 목록 불러오는 중...
+2019-12-04 18:59:25 [INFO] - Connection 1703559 acquired
+2019-12-04 18:59:25 [INFO] - Connection 1703559 released
+2019-12-04 18:59:25 [INFO] - 회원 목록 불러오기 완료
+2019-12-04 18:59:25 [INFO] - 게시판 목록 불러오는 중...
+2019-12-04 18:59:25 [INFO] - Connection 1703559 acquired
+2019-12-04 18:59:25 [INFO] - Connection 1703559 released
+2019-12-04 18:59:25 [INFO] - 게시판 목록 불러오기 완료
+2019-12-04 18:59:25 [INFO] - [{"userIdx":8,"userName":"1"}]
+2019-12-04 18:59:25 [INFO] - [{"boardIdx":1,"boardTItle":"1"}]
+2019-12-04 18:59:25 [INFO] - 메인 불러오기 성공
+2019-12-04 19:00:44 [INFO] - Connection pool created.
+2019-12-04 19:00:44 [INFO] - node js start, i see you
+2019-12-04 19:00:44 [INFO] - development
+2019-12-04 19:01:48 [INFO] - Connection pool created.
+2019-12-04 19:01:48 [INFO] - node js start, i see you
+2019-12-04 19:01:48 [INFO] - development
+2019-12-04 19:02:11 [INFO] - Connection pool created.
+2019-12-04 19:02:11 [INFO] - node js start, i see you
+2019-12-04 19:02:11 [INFO] - development
+2019-12-04 19:02:31 [INFO] - Connection pool created.
+2019-12-04 19:02:31 [INFO] - node js start, i see you
+2019-12-04 19:02:31 [INFO] - development
+2019-12-04 19:02:39 [INFO] - Connection pool created.
+2019-12-04 19:02:39 [INFO] - node js start, i see you
+2019-12-04 19:02:39 [INFO] - development
+2019-12-04 19:02:58 [INFO] - Connection pool created.
+2019-12-04 19:02:58 [INFO] - node js start, i see you
+2019-12-04 19:02:58 [INFO] - development
+2019-12-04 19:03:36 [INFO] - Connection pool created.
+2019-12-04 19:03:36 [INFO] - node js start, i see you
+2019-12-04 19:03:36 [INFO] - development
+2019-12-04 19:03:46 [INFO] - Connection pool created.
+2019-12-04 19:03:46 [INFO] - node js start, i see you
+2019-12-04 19:03:46 [INFO] - development
+2019-12-04 19:04:15 [INFO] - Connection pool created.
+2019-12-04 19:04:15 [INFO] - node js start, i see you
+2019-12-04 19:04:15 [INFO] - development
+2019-12-04 19:04:16 [INFO] - ReferenceError: err is not defined
+    at exports.get_memberList (/var/www/html/star/controllers/index/index.js:43:12)
+    at Layer.handle [as handle_request] (/var/www/html/star/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/star/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/star/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/star/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/star/node_modules/express/lib/router/index.js:281:22
+    at param (/var/www/html/star/node_modules/express/lib/router/index.js:354:14)
+    at param (/var/www/html/star/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/var/www/html/star/node_modules/express/lib/router/index.js:410:3)
+    at next (/var/www/html/star/node_modules/express/lib/router/index.js:275:10)
+2019-12-04 19:04:24 [INFO] - Connection pool created.
+2019-12-04 19:04:24 [INFO] - node js start, i see you
+2019-12-04 19:04:24 [INFO] - development
+2019-12-04 19:04:24 [INFO] - ReferenceError: err is not defined
+    at exports.get_memberList (/var/www/html/star/controllers/index/index.js:43:12)
+    at Layer.handle [as handle_request] (/var/www/html/star/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/star/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/star/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/star/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/star/node_modules/express/lib/router/index.js:281:22
+    at param (/var/www/html/star/node_modules/express/lib/router/index.js:354:14)
+    at param (/var/www/html/star/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/var/www/html/star/node_modules/express/lib/router/index.js:410:3)
+    at next (/var/www/html/star/node_modules/express/lib/router/index.js:275:10)
+2019-12-04 19:05:07 [INFO] - Connection pool created.
+2019-12-04 19:05:07 [INFO] - node js start, i see you
+2019-12-04 19:05:07 [INFO] - development
+2019-12-04 19:05:50 [INFO] - Connection pool created.
+2019-12-04 19:05:50 [INFO] - node js start, i see you
+2019-12-04 19:05:50 [INFO] - development
+2019-12-04 19:07:57 [INFO] - Connection pool created.
+2019-12-04 19:07:57 [INFO] - node js start, i see you
+2019-12-04 19:07:57 [INFO] - development
+2019-12-04 19:07:59 [INFO] - Error: 메인페이지 불러오기 실패
+    at exports.get_memberList (/var/www/html/star/controllers/index/index.js:46:17)
+    at Layer.handle [as handle_request] (/var/www/html/star/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/star/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/star/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/star/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/star/node_modules/express/lib/router/index.js:281:22
+    at param (/var/www/html/star/node_modules/express/lib/router/index.js:354:14)
+    at param (/var/www/html/star/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/var/www/html/star/node_modules/express/lib/router/index.js:410:3)
+    at next (/var/www/html/star/node_modules/express/lib/router/index.js:275:10)

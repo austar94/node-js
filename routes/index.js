@@ -8,7 +8,9 @@ const index_controller	=	require(__base + 'controllers/index/');
 
 //각 호출 별
 router.get('/', index_controller.index);
-router.post('/list/:id', index_controller.get_memberList);
+
+/* router.get('/list', index_controller.get_testList); */
+router.get('/list/:id', index_controller.get_memberList);
 //view
 
 

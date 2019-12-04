@@ -8,8 +8,13 @@ exports.index = function(req, res){
 	res.send('asdf');
 }
 
+exports.get_testList = function(req, res){
+	res.send('asdf');
+}
+
+
 //메인페이지 리스트
-exports.get_memberList = async function(req, res){
+exports.get_memberList = async function(req, res, next){
 	let result				=	new Message();
 	let memberList			=	'';
 	let boardList			=	'';
@@ -34,5 +39,13 @@ exports.get_memberList = async function(req, res){
 		result.setUrl('/member');
 	}
 
-	res.json(result);
+	//페이지 불러오기에 실패했을경우 오류 구문 띄우기
+	/* try{
+		res.json(err);
+	}
+	catch(err){
+		let error			=	new Error('메인페이지 불러오기 실패');
+		next(error);
+	} */
+	
 }
